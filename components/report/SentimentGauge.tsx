@@ -32,34 +32,39 @@ export function SentimentGauge({ data }: SentimentGaugeProps) {
         ))}
       </div>
 
-      {/* Gauge */}
-      <div className="bg-gray-50 border border-gray-200 rounded-md p-2.5 mb-3">
-        <GaugeChart value={data.fearGreed.current} label={data.fearGreed.label} />
-      </div>
+      {/* Gauge + Historical comparison side by side */}
+      <div className="flex gap-3 mb-3.5">
+        {/* Gauge - left (larger) */}
+        <div className="bg-gray-50 border border-gray-200 rounded-md p-2.5 flex-[3]">
+          <GaugeChart value={data.fearGreed.current} label={data.fearGreed.label} />
+        </div>
 
-      {/* Historical comparison */}
-      <table className="w-full text-[11px] mb-3.5">
-        <thead>
-          <tr className="bg-[#1e293b] text-gray-200">
-            <th className="px-2.5 py-1.5 text-left font-semibold">指標</th>
-            <th className="px-2.5 py-1.5 text-right font-semibold">當前</th>
-            <th className="px-2.5 py-1.5 text-right font-semibold">前日</th>
-            <th className="px-2.5 py-1.5 text-right font-semibold">一週前</th>
-            <th className="px-2.5 py-1.5 text-right font-semibold">一月前</th>
-            <th className="px-2.5 py-1.5 text-right font-semibold">一年前</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr className="border-b border-gray-100">
-            <td className="px-2.5 py-1.5 font-medium">恐懼與貪婪</td>
-            <td className="px-2.5 py-1.5 text-right font-mono">{data.fearGreed.current.toFixed(1)}</td>
-            <td className="px-2.5 py-1.5 text-right font-mono">{data.fearGreed.previous.toFixed(1)}</td>
-            <td className="px-2.5 py-1.5 text-right font-mono">{data.fearGreed.weekAgo.toFixed(1)}</td>
-            <td className="px-2.5 py-1.5 text-right font-mono">{data.fearGreed.monthAgo.toFixed(1)}</td>
-            <td className="px-2.5 py-1.5 text-right font-mono">{data.fearGreed.yearAgo.toFixed(1)}</td>
-          </tr>
-        </tbody>
-      </table>
+        {/* Historical comparison - right (smaller) */}
+        <div className="flex-[2] min-w-0">
+          <table className="w-full text-[11px] h-full">
+            <thead>
+              <tr className="bg-[#1e293b] text-gray-200">
+                <th className="px-2.5 py-1.5 text-left font-semibold">時間</th>
+                <th className="px-2.5 py-1.5 text-right font-semibold">恐懼與貪婪指數</th>
+              </tr>
+            </thead>
+            <tbody>
+              {[
+                { label: "當前", value: data.fearGreed.current },
+                { label: "前日", value: data.fearGreed.previous },
+                { label: "一週前", value: data.fearGreed.weekAgo },
+                { label: "一月前", value: data.fearGreed.monthAgo },
+                { label: "一年前", value: data.fearGreed.yearAgo },
+              ].map((row) => (
+                <tr key={row.label} className="border-b border-gray-100">
+                  <td className="px-2.5 py-1.5 font-medium">{row.label}</td>
+                  <td className="px-2.5 py-1.5 text-right font-mono">{row.value.toFixed(1)}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
 
       {/* Cycle */}
       <div className="text-[11px] font-semibold text-gray-500 py-1 mb-1.5 border-b border-gray-200">經濟週期指示器</div>
