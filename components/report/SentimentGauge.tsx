@@ -25,9 +25,9 @@ export function SentimentGauge({ data }: SentimentGaugeProps) {
       <div className="grid grid-cols-2 md:grid-cols-4 gap-2.5 mb-3.5">
         {kpiCards.map((card) => (
           <div key={card.label} className="bg-[#0f2a4a] text-white p-3.5 rounded-md text-center">
-            <div className="text-[9.5px] opacity-60 uppercase tracking-wider">{card.label}</div>
+            <div className="text-[9.5px] text-gray-300 uppercase tracking-wider">{card.label}</div>
             <div className="text-[22px] font-bold my-1" style={{ color: card.color }}>{card.value}</div>
-            <div className="text-[10px] opacity-70">{card.sub}</div>
+            <div className="text-[10px] text-gray-400">{card.sub}</div>
           </div>
         ))}
       </div>
