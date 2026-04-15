@@ -10,14 +10,14 @@ export function ReportHeader({ date, generatedAt }: ReportHeaderProps) {
       <div className="flex justify-between items-start">
         <div>
           <h1 className="text-xl font-bold tracking-widest leading-tight">每日宏觀資訊綜合早報</h1>
-          <h2 className="text-[11px] font-light tracking-[5px] text-gray-400 mt-1">Daily Macro Market Briefing</h2>
+          <h2 className="text-[11px] font-light tracking-[5px] text-blue-200 mt-1">Daily Macro Market Briefing</h2>
         </div>
-        <div className="text-right text-[11px] text-gray-300 leading-relaxed">
+        <div className="text-right text-[11px] text-blue-200 leading-relaxed">
           <div className="text-[15px] font-bold text-white">{date}</div>
           <div>生成時間 {generatedAt}</div>
         </div>
       </div>
-      <div className="mt-3.5 pt-3 border-t border-white/15 text-[10.5px] text-gray-300 flex gap-6 flex-wrap">
+      <div className="mt-3.5 pt-3 border-t border-white/20 text-[10.5px] text-blue-200 flex gap-6 flex-wrap">
         <span>&#128202; Yahoo Finance</span>
         <span>&#128200; CNN Fear &amp; Greed Index</span>
         <span>&#128240; RSS: Reuters / MarketWatch / CNBC</span>
