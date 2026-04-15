@@ -9,7 +9,7 @@ export function ReportHeader({ date, generatedAt }: ReportHeaderProps) {
       <div className="absolute bottom-0 left-0 right-0 h-[3px] bg-gradient-to-r from-[#f0b429] via-[#e85d04] to-[#f0b429]" />
       <div className="flex justify-between items-start">
         <div>
-          <h1 className="text-lg font-bold tracking-widest leading-tight">每日宏觀資訊綜合早報</h1>
+          <h1 className="text-xl font-bold tracking-widest leading-tight">每日宏觀資訊綜合早報</h1>
           <h2 className="text-[11px] font-light tracking-[5px] opacity-65 mt-1">Daily Macro Market Briefing</h2>
         </div>
         <div className="text-right text-[11px] opacity-75 leading-relaxed">

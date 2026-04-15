@@ -36,11 +36,10 @@ export default function Home() {
       <div className="max-w-[960px] mx-auto my-6 bg-white shadow-lg rounded overflow-hidden print:max-w-full print:mx-0 print:my-0 print:shadow-none print:rounded-none">
         <ReportHeader date={reportData.date} generatedAt={reportData.generatedAt} />
 
-        {/* Hero Ticker */}
-        <HeroCards indicators={reportData.heroIndicators} />
-
         {/* Content Body */}
         <div className="px-8 py-6 print:px-5 print:py-4">
+          {/* Hero Ticker */}
+          <HeroCards indicators={reportData.heroIndicators} />
           <MarketIndices regions={reportData.marketRegions} />
           <MacroNews news={reportData.news} />
           <CommodityForexBond
