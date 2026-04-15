@@ -1,0 +1,33 @@
+@media print {
+  body {
+    background: #fff !important;
+    font-size: 10px !important;
+  }
+
+  /* Page layout */
+  @page {
+    margin: 1cm 1.2cm;
+    size: A4;
+  }
+
+  /* Remove shadows */
+  * {
+    box-shadow: none !important;
+  }
+
+  /* Prevent page breaks inside these elements */
+  tr {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  thead {
+    display: table-header-group;
+  }
+
+  /* Force all background colors to print */
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+}
