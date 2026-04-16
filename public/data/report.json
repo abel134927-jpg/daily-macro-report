@@ -1,6 +1,6 @@
 {
   "date": "2026-04-16",
-  "generatedAt": "2026-04-16 09:35",
+  "generatedAt": "2026-04-16 09:39",
   "heroIndicators": [
     {
       "name": "S&P 500",
@@ -156,9 +156,9 @@
     },
     {
       "name": "黃金",
-      "value": 4846.1,
-      "change": 21.1,
-      "changePercent": 0.44,
+      "value": 4845.4,
+      "change": 20.4,
+      "changePercent": 0.42,
       "sparklineData": [
         5120.2,
         5065.3,
@@ -189,14 +189,14 @@
         4761.9,
         4742.4,
         4825.0,
-        4846.1
+        4845.4
       ]
     },
     {
       "name": "WTI 原油",
-      "value": 90.99,
-      "change": -0.29,
-      "changePercent": -0.32,
+      "value": 91.15,
+      "change": -0.13,
+      "changePercent": -0.14,
       "sparklineData": [
         74.66,
         81.01,
@@ -227,14 +227,14 @@
         96.57,
         99.08,
         91.28,
-        90.99
+        91.15
       ]
     },
     {
       "name": "美元指數",
       "value": 98.01,
       "change": -0.11,
-      "changePercent": -0.12,
+      "changePercent": -0.11,
       "sparklineData": [
         98.77,
         99.32,
@@ -472,11 +472,11 @@
       "indices": [
         {
           "name": "德國DAX",
-          "close": 24066.7,
-          "change": 22.48,
-          "changePercent": 0.09,
-          "trend": "up",
-          "ytd": -1.93
+          "close": 0,
+          "change": 0,
+          "changePercent": 0,
+          "trend": "neutral",
+          "ytd": 0
         },
         {
           "name": "英國FTSE100",
@@ -518,9 +518,9 @@
       "impact": "mid",
       "sentiment": "bull",
       "region": "全球",
-      "titleZh": "戰爭風險評估：市場展望",
+      "titleZh": "戰爭風險評估：市場已消化？",
       "titleEn": "Review Preview: War & Peace?",
-      "summary": "標普500創新高，顯示市場已初步消化伊朗戰爭風險，投資者情緒轉向樂觀。",
+      "summary": "標普500創新高，顯示投資者認為伊朗戰爭影響已反映在股價中，市場風險偏好回升。",
       "source": "Barrons.com",
       "time": "04-15 23:55",
       "url": "https://www.barrons.com/articles/stocks-today-records-netflix-earnings-preview-3537ee33?siteid=yhoof2&yptr=yahoo"
@@ -529,9 +529,9 @@
       "impact": "mid",
       "sentiment": "bull",
       "region": "美國",
-      "titleZh": "恐慌指數回落，逢低買入訊號浮現",
+      "titleZh": "恐慌指數回落，逢低買入時機現",
       "titleEn": "Wall Street's biggest fear gauge is fading. That means investors may want to buy the dip: Chart of the Day",
-      "summary": "VIX指數從高點回落至17，低於壓力閾值20，顯示市場壓力緩解，或提供逢低布局機會。",
+      "summary": "VIX指數從高點回落至17，低於壓力閾值20，顯示市場壓力緩解，可能提供逢低布局機會。",
       "source": "Yahoo Finance",
       "time": "04-15 14:25",
       "url": "https://finance.yahoo.com/news/wall-streets-biggest-fear-gauge-is-fading-that-means-investors-may-want-to-buy-the-dip-chart-of-the-day-142502355.html"
@@ -542,7 +542,7 @@
       "region": "全球",
       "titleZh": "標普無視油價飆升創歷史新高",
       "titleEn": "S&P 500 hits all-time high as investors shrug off Iran war oil price spike",
-      "summary": "儘管伊朗戰爭推高能源價格並拖累全球增長，美股仍強勢上漲，反映市場韌性。",
+      "summary": "儘管伊朗戰爭推高能源價格並拖累全球增長，美股仍強勢上漲，顯示市場韌性超預期。",
       "source": "CNBC",
       "time": "Wed, 15 Apr 2026",
       "url": "https://www.nbcnews.com/business/markets/sp-500-hits-new-high-iran-war-rcna331900"
@@ -553,7 +553,7 @@
       "region": "美國",
       "titleZh": "司法部調查聯準會裝修案受阻",
       "titleEn": "DOJ officials attempt to 'tour' the Fed's renovations as probe stalls",
-      "summary": "檢方調查聯準會主席鮑威爾進展停滯，試圖勘查聯準會裝修工程，事件影響有限。",
+      "summary": "檢方試圖調查聯準會裝修項目，但對鮑爾的調查進展停滯，事件短期對市場影響有限。",
       "source": "CNBC",
       "time": "Wed, 15 Apr 2026",
       "url": "https://www.nbcnews.com/business/economy/justice-department-tour-fed-renovation-rcna331878"
@@ -562,9 +562,9 @@
       "impact": "mid",
       "sentiment": "bull",
       "region": "全球",
-      "titleZh": "戰爭風險觸頂？低本益比動能ETF受關注",
+      "titleZh": "低本益比高動能ETF受關注",
       "titleEn": "Peak of Iran War Priced-In? Low-P/E High Momentum ETFs in Focus",
-      "summary": "市場可能已反映伊朗戰爭高峰擔憂，波動率下降，低本益比高動能ETF成短期焦點。",
+      "summary": "市場可能已消化戰爭高峰風險，波動率下降，低P/E高動能ETF成為短期資金布局焦點。",
       "source": "Zacks",
       "time": "04-15 15:00",
       "url": "https://finance.yahoo.com/markets/stocks/articles/peak-iran-war-priced-low-150000679.html"
@@ -573,9 +573,9 @@
       "impact": "mid",
       "sentiment": "bull",
       "region": "全球",
-      "titleZh": "美批發通膨低於預期，美元走弱推升金價",
+      "titleZh": "美批發通膨低於預期，金價走揚",
       "titleEn": "Gold Moves Higher as the Dollar Weakened as U.S. Wholesale Price Inflation Rose Less Than Expected in March",
-      "summary": "美國3月批發通膨數據低於預期，導致美元下跌，黃金價格隨之走揚。",
+      "summary": "美國3月批發通膨數據低於預期，美元走弱，推動黃金避險需求上升，金價上漲。",
       "source": "MT Newswires",
       "time": "04-14 13:15",
       "url": "https://finance.yahoo.com/markets/commodities/articles/gold-moves-higher-dollar-weakened-131559965.html"
@@ -584,20 +584,20 @@
       "impact": "mid",
       "sentiment": "bull",
       "region": "全球",
-      "titleZh": "金價續揚，受美元走軟與通膨數據提振",
+      "titleZh": "金價續漲，美元疲軟支撐",
       "titleEn": "Update: Gold Moves Higher as the Dollar Weakens as U.S. Wholesale Price Inflation Rose Less Than Expected",
-      "summary": "美元因通膨數據疲軟而下跌，支撐黃金價格在午後持續上漲。",
+      "summary": "美元持續走弱，加上通膨數據溫和，提振黃金吸引力，金價在午後交易中進一步上揚。",
       "source": "MT Newswires",
       "time": "04-14 18:02",
       "url": "https://finance.yahoo.com/markets/commodities/articles/gold-moves-higher-dollar-weakens-180239080.html"
     },
     {
-      "impact": "low",
+      "impact": "mid",
       "sentiment": "bear",
       "region": "美國",
       "titleZh": "Allbirds轉型AI公司，Snap裁員千人",
       "titleEn": "Allbirds rebrands as an AI company, Snap to cut 1,000 jobs",
-      "summary": "鞋業品牌Allbirds重塑為AI公司，Snap計劃裁員1000人，反映科技業調整趨勢。",
+      "summary": "鞋業品牌Allbirds重塑為AI公司，Snap計劃大幅裁員，反映科技業結構調整持續。",
       "source": "Yahoo Finance Video",
       "time": "04-15 18:05",
       "url": "https://finance.yahoo.com/video/allbirds-rebrands-as-an-ai-company-snap-to-cut-1000-jobs-180535310.html"
@@ -606,9 +606,9 @@
       "impact": "mid",
       "sentiment": "neutral",
       "region": "全球",
-      "titleZh": "美銀CEO稱經濟韌性，ASML財報後股價下跌",
+      "titleZh": "美銀CEO稱經濟韌性，ASML財報後跌",
       "titleEn": "BofA CEO calls economy 'resilient,' ASML stock falls post-earnings",
-      "summary": "美銀財報顯示經濟具韌性，但ASML公布業績後股價走低，科技股表現分歧。",
+      "summary": "美銀財報顯示經濟具韌性，但ASML財報後股價下跌，反映半導體設備商面臨短期壓力。",
       "source": "Yahoo Finance Video",
       "time": "04-15 17:14",
       "url": "https://finance.yahoo.com/video/bofa-ceo-calls-economy-resilient-asml-stock-falls-post-earnings-171437206.html"
@@ -617,9 +617,9 @@
       "impact": "low",
       "sentiment": "bull",
       "region": "美國",
-      "titleZh": "Riot Platforms創52周新高，Q1業績強勁",
+      "titleZh": "Riot Platforms創新高，估值受關注",
       "titleEn": "A Look At Riot Platforms (RIOT) Valuation After Q1 2026 Update And 52 Week Highs",
-      "summary": "Riot Platforms首季產出1473枚比特幣並售出3778枚，監管順風推動股價創新高。",
+      "summary": "公司Q1產出1,473枚比特幣但出售3,778枚，監管順風推動股價創52周新高，估值引討論。",
       "source": "Simply Wall St.",
       "time": "04-16 01:09",
       "url": "https://finance.yahoo.com/markets/stocks/articles/look-riot-platforms-riot-valuation-010943906.html"
@@ -628,53 +628,53 @@
   "commodities": [
     {
       "name": "黃金",
-      "price": 4846.1,
-      "change": 21.1,
-      "changePercent": 0.44,
+      "price": 4845.4,
+      "change": 20.4,
+      "changePercent": 0.42,
       "trend": "up"
     },
     {
       "name": "白銀",
-      "price": 80.56,
-      "change": 1.16,
-      "changePercent": 1.47,
+      "price": 80.51,
+      "change": 1.12,
+      "changePercent": 1.42,
       "trend": "up"
     },
     {
       "name": "原油(WTI)",
-      "price": 90.99,
-      "change": -0.29,
-      "changePercent": -0.32,
+      "price": 91.15,
+      "change": -0.13,
+      "changePercent": -0.14,
       "trend": "down"
     },
     {
       "name": "布蘭特原油",
-      "price": 94.71,
-      "change": -0.08,
-      "changePercent": -0.08,
+      "price": 94.75,
+      "change": -0.04,
+      "changePercent": -0.04,
       "trend": "down"
     },
     {
       "name": "銅",
-      "price": 6.1,
+      "price": 6.11,
       "change": 0.03,
-      "changePercent": 0.54,
+      "changePercent": 0.57,
       "trend": "up"
     },
     {
       "name": "天然氣",
       "price": 2.59,
       "change": -0.01,
-      "changePercent": -0.35,
+      "changePercent": -0.31,
       "trend": "down"
     }
   ],
   "forex": [
     {
       "name": "美元指數",
-      "rate": 98.006,
-      "change": -0.114,
-      "changePercent": -0.12,
+      "rate": 98.012,
+      "change": -0.108,
+      "changePercent": -0.11,
       "trend": "down"
     },
     {
