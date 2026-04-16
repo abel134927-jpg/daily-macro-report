@@ -53,23 +53,25 @@ function parseFlowValue(str: string): number {
 }
 
 function FlowBarChart({ items }: { items: FundFlowItem[] }) {
-  const chartData = items.slice(0, 10).map((item) => ({
-    name: item.name,
-    value: parseFlowValue(item.daily),
-  }))
+  // Sort by absolute value, take top 5
+  const sorted = items
+    .map((item) => ({ name: item.name, value: parseFlowValue(item.daily) }))
+    .filter((d) => !isNaN(d.value))
+    .sort((a, b) => Math.abs(b.value) - Math.abs(a.value))
+    .slice(0, 5)
 
   return (
     <div className="mb-3">
-      <ResponsiveContainer width="100%" height={220}>
-        <BarChart data={chartData} layout="vertical" margin={{ left: 60, right: 20, top: 5, bottom: 5 }}>
-          <XAxis type="number" tick={{ fontSize: 10 }} />
-          <YAxis type="category" dataKey="name" tick={{ fontSize: 10 }} width={55} />
+      <ResponsiveContainer width="100%" height={200}>
+        <BarChart data={sorted} layout="vertical" margin={{ left: 80, right: 30, top: 5, bottom: 5 }}>
+          <XAxis type="number" tick={{ fontSize: 11 }} />
+          <YAxis type="category" dataKey="name" tick={{ fontSize: 12 }} width={75} />
           <Tooltip
             formatter={(value) => [`${Number(value) >= 0 ? "+" : ""}${Number(value).toFixed(2)}億`, "當日流量"]}
-            contentStyle={{ fontSize: 11 }}
+            contentStyle={{ fontSize: 12 }}
           />
           <Bar dataKey="value" radius={[0, 4, 4, 0]}>
-            {chartData.map((entry, index) => (
+            {sorted.map((entry, index) => (
               <Cell key={index} fill={entry.value >= 0 ? "#10B981" : "#EF4444"} />
             ))}
           </Bar>
