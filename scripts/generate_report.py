@@ -753,10 +753,10 @@ def build_report_json(raw):
         return {'region': name, 'indices': indices}
 
     market_regions = [
+        build_region('美國', US_INDICES),
         build_region('亞洲', ASIAN_INDICES),
         build_region('新興市場', EMERGING_INDICES),
         build_region('歐洲', EUROPEAN_INDICES),
-        build_region('美國', US_INDICES),
     ]
 
     # --- News ---

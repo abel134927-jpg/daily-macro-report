@@ -27,6 +27,16 @@ export const reportData: ReportData = {
 
   marketRegions: [
     {
+      region: "美國市場",
+      indices: [
+        { name: "S&P 500", close: 6967.38, change: 81.14, changePercent: 1.18, trend: "up", ytd: 1.59 },
+        { name: "納斯達克", close: 23639.08, change: 455.34, changePercent: 1.96, trend: "up", ytd: 1.74 },
+        { name: "道瓊斯", close: 48535.99, change: 317.74, changePercent: 0.66, trend: "up", ytd: 0.32 },
+        { name: "羅素2000", close: 2705.67, change: 35.18, changePercent: 1.32, trend: "up", ytd: 7.87 },
+        { name: "費城半導體", close: 9224.12, change: 184.60, changePercent: 2.04, trend: "strong_up", ytd: 25.20 },
+      ],
+    },
+    {
       region: "亞洲市場",
       indices: [
         { name: "日經225", close: 56502.77, change: -421.34, changePercent: -0.74, trend: "down", ytd: 9.01 },
@@ -57,16 +67,6 @@ export const reportData: ReportData = {
         { name: "法國CAC40", close: 8235.98, change: -23.62, changePercent: -0.29, trend: "down", ytd: 0.50 },
         { name: "歐洲STOXX50", close: 5905.02, change: -21.09, changePercent: -0.36, trend: "down", ytd: -0.32 },
         { name: "瑞士SMI", close: 13145.91, change: -37.37, changePercent: -0.28, trend: "down", ytd: -0.77 },
-      ],
-    },
-    {
-      region: "美國市場",
-      indices: [
-        { name: "S&P 500", close: 6967.38, change: 81.14, changePercent: 1.18, trend: "up", ytd: 1.59 },
-        { name: "納斯達克", close: 23639.08, change: 455.34, changePercent: 1.96, trend: "up", ytd: 1.74 },
-        { name: "道瓊斯", close: 48535.99, change: 317.74, changePercent: 0.66, trend: "up", ytd: 0.32 },
-        { name: "羅素2000", close: 2705.67, change: 35.18, changePercent: 1.32, trend: "up", ytd: 7.87 },
-        { name: "費城半導體", close: 9224.12, change: 184.60, changePercent: 2.04, trend: "strong_up", ytd: 25.20 },
       ],
     },
   ],
