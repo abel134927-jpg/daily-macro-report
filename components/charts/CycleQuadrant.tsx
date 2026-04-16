@@ -37,9 +37,9 @@ export function CycleQuadrant({ phase, phaseZh, growthDirection, inflationDirect
   const ny = cy - needleR * Math.sin(needleAngle)
 
   return (
-    <div className="flex items-start gap-5 flex-wrap">
-      <div className="flex-shrink-0">
-        <svg viewBox="0 0 300 276" className="w-full max-w-[260px] block">
+    <div className="flex items-start gap-5">
+      <div className="flex-[3]">
+        <svg viewBox="0 0 300 276" className="w-full max-w-[360px] mx-auto block">
           <circle cx={cx} cy={cy} r={r} fill="#f1f5f9" stroke="#e2e8f0" strokeWidth={1} />
           {phases.map((p) => (
             <g key={p.key}>
@@ -60,7 +60,7 @@ export function CycleQuadrant({ phase, phaseZh, growthDirection, inflationDirect
           <circle cx={cx} cy={cy} r={4} fill="#f0b429" />
         </svg>
       </div>
-      <div className="flex-1 min-w-[140px] pl-2 text-sm text-gray-600 leading-relaxed">
+      <div className="flex-[2] min-w-[140px] pl-2 text-sm text-gray-600 leading-relaxed">
         <div className="text-base font-bold text-[#0f2a4a] mb-1.5">{phaseZh}（{phase === "stagflation" ? "Stagflation" : phase === "recovery" ? "Recovery" : phase === "overheating" ? "Overheating" : "Recession"}）</div>
         <div>成長方向：<b>{growthDirection === "up" ? "↑ 上升" : "↓ 下降"}</b></div>
         <div>通脹方向：<b>{inflationDirection === "up" ? "↑ 上升" : "↓ 下降"}</b></div>
