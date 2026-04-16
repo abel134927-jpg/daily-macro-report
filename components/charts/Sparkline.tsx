@@ -1,6 +1,6 @@
 "use client"
 
-import { LineChart, Line, ResponsiveContainer } from "recharts"
+import { LineChart, Line, YAxis, ResponsiveContainer } from "recharts"
 
 interface SparklineProps {
   data: number[]
@@ -14,6 +14,7 @@ export function Sparkline({ data, color, height = 40 }: SparklineProps) {
   return (
     <ResponsiveContainer width="100%" height={height}>
       <LineChart data={chartData}>
+        <YAxis domain={["dataMin", "dataMax"]} hide />
         <Line
           type="monotone"
           dataKey="value"
