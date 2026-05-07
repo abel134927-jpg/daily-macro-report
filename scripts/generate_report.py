@@ -229,6 +229,16 @@ def calc_daily_money_flow(df):
 # DATA FETCHING
 # ============================================================
 
+def _flatten_columns(df):
+    """Normalize yfinance output to single-level columns (Open/High/Low/Close/Volume)."""
+    if df is None or df.empty:
+        return df
+    if isinstance(df.columns, pd.MultiIndex):
+        df = df.copy()
+        df.columns = df.columns.get_level_values(0)
+    return df
+
+
 def _download_single(sym, days):
     """Download a single symbol individually (fallback)."""
     start = (NOW - timedelta(days=days)).strftime('%Y-%m-%d')
@@ -237,7 +247,7 @@ def _download_single(sym, days):
         df = yf.download(sym, start=start, end=end, interval='1d',
                          auto_adjust=True, progress=False)
         if df is not None and not df.empty:
-            df = df.dropna(how='all')
+            df = _flatten_columns(df).dropna(how='all')
             if not df.empty:
                 return df
     except Exception:
@@ -262,7 +272,7 @@ def _download_batch(symbols, days):
     for sym in symbols:
         try:
             df = raw if single else raw[sym]
-            df = df.dropna(how='all')
+            df = _flatten_columns(df).dropna(how='all')
             if not df.empty:
                 result[sym] = df
         except Exception:
