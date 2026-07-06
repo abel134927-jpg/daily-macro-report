@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "generatedAt": "2026-07-06 09:00",
+  "generatedAt": "2026-07-06 16:27",
   "heroIndicators": [
     {
       "name": "S&P 500",
@@ -156,10 +156,11 @@
     },
     {
       "name": "黃金",
-      "value": 4196.0,
-      "change": 83.3,
-      "changePercent": 2.03,
+      "value": 4112.7,
+      "change": 44.4,
+      "changePercent": 1.09,
       "sparklineData": [
+        4531.3,
         4539.8,
         4521.0,
         4500.4,
@@ -188,16 +189,16 @@
         4022.3,
         4022.9,
         4068.3,
-        4112.7,
-        4196.0
+        4112.7
       ]
     },
     {
       "name": "WTI 原油",
-      "value": 68.32,
-      "change": -0.37,
-      "changePercent": -0.54,
+      "value": 68.69,
+      "change": 0.11,
+      "changePercent": 0.16,
       "sparklineData": [
+        98.26,
         96.35,
         96.6,
         93.89,
@@ -226,16 +227,16 @@
         70.75,
         69.5,
         68.58,
-        68.69,
-        68.32
+        68.69
       ]
     },
     {
       "name": "美元指數",
-      "value": 100.88,
-      "change": 0.02,
-      "changePercent": 0.02,
+      "value": 100.86,
+      "change": -0.53,
+      "changePercent": -0.52,
       "sparklineData": [
+        99.11,
         99.19,
         99.32,
         99.17,
@@ -264,17 +265,15 @@
         101.11,
         101.19,
         101.39,
-        100.86,
-        100.88
+        100.86
       ]
     },
     {
       "name": "Bitcoin",
-      "value": 63088.3,
-      "change": 544.11,
-      "changePercent": 0.87,
+      "value": 63547.88,
+      "change": 459.58,
+      "changePercent": 0.73,
       "sparklineData": [
-        60922.67,
         60867.41,
         63239.52,
         63090.59,
@@ -303,7 +302,8 @@
         60003.76,
         61485.3,
         62544.2,
-        63088.3
+        63088.3,
+        63547.88
       ]
     }
   ],
@@ -515,12 +515,23 @@
   ],
   "news": [
     {
+      "impact": "mid",
+      "sentiment": "bull",
+      "region": "全球",
+      "titleZh": "比特幣等主流幣反彈，恐懼中看漲",
+      "titleEn": "Bitcoin, Ethereum, XRP, Dogecoin Rally as 'Extreme Fear' Persists: Analyst Expects a 'Quick' Move Upward for BTC After 'Shallow' Correction",
+      "summary": "加密貨幣在「極度恐懼」情緒中反彈，分析師預期比特幣短期修正後將快速上漲，市場情緒偏多。",
+      "source": "Benzinga",
+      "time": "07-06 01:52",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-rally-015240911.html"
+    },
+    {
       "impact": "high",
       "sentiment": "bear",
       "region": "美國",
-      "titleZh": "美六月新增5.7萬就業失業率降至4.2%",
+      "titleZh": "美國6月僅增5.7萬就業，失業率降至4.2%",
       "titleEn": "U.S. economy adds 57,000 jobs in June as the unemployment rate dips to 4.2%",
-      "summary": "就業增長遠低預期，工資增幅持續低於通膨，恐削弱消費動能，市場避險情緒升溫。",
+      "summary": "就業數據遠低預期，薪資增長連續三個月低於通膨，勞動市場穩定性引發擔憂，市場避險情緒升溫。",
       "source": "CNBC",
       "time": "Thu, 02 Jul 2026",
       "url": "https://www.nbcnews.com/now/video/u-s-economy-adds-57-000-jobs-in-june-as-the-unemployment-rate-dips-to-4-2-266069061779"
@@ -529,9 +540,9 @@
       "impact": "mid",
       "sentiment": "neutral",
       "region": "美國",
-      "titleZh": "各州聯邦與州汽油稅繳納地圖",
+      "titleZh": "地圖：聯邦與州汽油稅負擔一覽",
       "titleEn": "Map: How much you pay in federal and state gas taxes",
-      "summary": "油價逼近5美元，多州考慮暫停燃油稅，短期可能緩解通膨壓力，但財政收入恐受影響。",
+      "summary": "全美汽油均價逼近5美元，部分州暫停徵收汽油稅，川普政府亦討論跟進，短期可能緩解通膨壓力。",
       "source": "CNBC",
       "time": "Mon, 11 May 2026",
       "url": "https://www.nbcnews.com/data-graphics/federal-gas-tax-rate-states-trump-iran-war-prices-map-rcna344540"
@@ -540,53 +551,42 @@
       "impact": "high",
       "sentiment": "bear",
       "region": "美國",
-      "titleZh": "美六月僅增5.7萬就業工資增長疲軟",
+      "titleZh": "6月僅增5.7萬就業，薪資成長緩慢",
       "titleEn": "U.S. adds just 57,000 jobs in June, a worrying sign as wage growth remains slow",
-      "summary": "就業數據連續疲弱，工資追不上通膨，市場對經濟軟著陸信心下滑，可能延後聯準會升息。",
+      "summary": "就業成長疲軟，薪資增速落後於通膨，勞動市場穩定性堪憂，聯準會升息預期降溫。",
       "source": "CNBC",
       "time": "Thu, 02 Jul 2026",
       "url": "https://www.nbcnews.com/business/economy/june-jobs-report-stable-hiring-rcna352603"
     },
     {
       "impact": "mid",
-      "sentiment": "neutral",
-      "region": "美國",
-      "titleZh": "美股期指漲跌互見聚焦聯準會會議紀錄",
-      "titleEn": "Stock Futures Open Mixed, Kicking Off Week that Includes Fed Minutes",
-      "summary": "市場在FOMC會議紀錄公布前觀望，試圖延續近期漲勢，政策路徑仍為關鍵變數。",
-      "source": "Barrons.com",
-      "time": "07-05 22:37",
-      "url": "https://www.barrons.com/articles/stock-futures-fed-minutes-pepsi-delta-earnings-47dbcac0?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "impact": "high",
-      "sentiment": "bear",
+      "sentiment": "bull",
       "region": "全球",
-      "titleZh": "聯準會主席沃旭七字談話重擊華爾街",
-      "titleEn": "Fed Chair Kevin Warsh May Have Driven a Dagger Into Wall Street's Heart With This Blunt 7-Word Statement",
-      "summary": "沃旭言論暗示激進政策轉向，市場對完美定價的風險偏好受打壓，股市面臨回調壓力。",
-      "source": "Motley Fool",
-      "time": "07-05 13:26",
-      "url": "https://www.fool.com/investing/2026/07/05/fed-kevin-warsh-dagger-wall-st-7-word-statement/"
+      "titleZh": "加密市場為何今日上揚？",
+      "titleEn": "Why Is The Crypto Market Up Today?",
+      "summary": "加密市值升至2.17兆美元，受Fed官員鴿派言論、礦工底部訊號及HYPE領漲帶動，市場情緒轉多。",
+      "source": "Yahoo Finance",
+      "time": "Mon, 06 Jul 2026",
+      "url": "https://beincrypto.com/why-is-the-crypto-market-up-today/?.tsrc=rss"
     },
     {
       "impact": "mid",
       "sentiment": "bull",
-      "region": "全球",
-      "titleZh": "比特幣選擇權偏多FOMC前挑戰6.3萬",
-      "titleEn": "Bitcoin Options Turn Call-Heavy Before July 8 FOMC Minutes: Will BTC Break $63,000?",
-      "summary": "選擇權市場偏向買權，最大痛點在6.3萬美元，若會議紀錄鴿派，比特幣有望突破區間。",
-      "source": "BeInCrypto",
-      "time": "07-05 19:26",
-      "url": "https://beincrypto.com/bitcoin-options-call-heavy-fomc-minutes/"
+      "region": "美國",
+      "titleZh": "美股期貨上漲，週一開盤前聚焦Fed會議紀錄",
+      "titleEn": "Nasdaq, S&P 500, Dow Futures Rise After Fourth Of July Break As Investors Await Fed Minutes: SLS, ONDS, HOOD, MARA, HUT In Focus",
+      "summary": "美股期貨在國慶日假期後走高，延續前一週強勁反彈，市場等待聯準會6月會議紀錄。",
+      "source": "Stocktwits",
+      "time": "07-06 00:58",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-rise-after-fourth-of-july-break-as-investors-await-fed-minutes/cZmKumjR7kK"
     },
     {
-      "impact": "high",
+      "impact": "mid",
       "sentiment": "bear",
       "region": "全球",
-      "titleZh": "油價持穩戰前水準油輪續航荷姆茲海峽",
+      "titleZh": "油價持穩於戰前水平，荷姆茲海峽航運持續",
       "titleEn": "Oil Steady at Prewar Levels as Ships Continue to Moving Through Strait of Hormuz",
-      "summary": "供應中斷擔憂減弱，油價維持低檔，美伊談判進展可能進一步壓低油價，全球通膨壓力降。",
+      "summary": "油價接近四個月低點，市場預期美伊關係緩和，供應擔憂減輕，油價短期承壓。",
       "source": "MT Newswires",
       "time": "07-03 12:52",
       "url": "https://finance.yahoo.com/energy/articles/oil-steady-prewar-levels-ships-125223538.html"
@@ -595,9 +595,9 @@
       "impact": "mid",
       "sentiment": "bull",
       "region": "全球",
-      "titleZh": "美元走弱通膨憂降黃金走高",
+      "titleZh": "金價走高，美元因通膨緩解而走弱",
       "titleEn": "Update: Gold Moves Higher as the Dollar Weakens on Easing Inflation Worries",
-      "summary": "通膨放緩預期壓抑美元，黃金避險需求上升，金價獲得支撐，短期偏多格局延續。",
+      "summary": "美元走軟及通膨擔憂降溫支撐金價上揚，黃金在避險與美元弱勢下獲得買盤。",
       "source": "MT Newswires",
       "time": "07-03 17:51",
       "url": "https://finance.yahoo.com/markets/commodities/articles/gold-moves-higher-dollar-weakens-175134060.html"
@@ -606,9 +606,9 @@
       "impact": "mid",
       "sentiment": "neutral",
       "region": "全球",
-      "titleZh": "油價持穩戰前水準荷姆茲海峽通行正常",
+      "titleZh": "油價持穩於戰前水平，荷姆茲海峽航運續行",
       "titleEn": "Update: Oil Steady at Prewar Levels as Ships Continue to Moving Through Strait of Hormuz",
-      "summary": "地緣風險溢價消退，油價維持平穩，全球需求前景仍不明朗，市場等待更多數據指引。",
+      "summary": "油價午後大致穩定，維持在戰前水準附近，市場對供應中斷擔憂減弱。",
       "source": "MT Newswires",
       "time": "07-03 18:26",
       "url": "https://finance.yahoo.com/energy/articles/oil-steady-prewar-levels-ships-182655323.html"
@@ -617,9 +617,9 @@
       "impact": "high",
       "sentiment": "bull",
       "region": "全球",
-      "titleZh": "就業數據弱黃金跳漲升息機率降至18%",
+      "titleZh": "金價跳漲，Fed升息機率降至18%",
       "titleEn": "Gold Jumps as Fed Hike Odds Drop to 18%",
-      "summary": "疲弱就業數據淡化7月升息預期，金價強勢上揚，市場重新定價聯準會政策路徑。",
+      "summary": "美國就業數據疲弱推動金價上漲，市場大幅下調7月升息預期，黃金避險需求增加。",
       "source": "GuruFocus.com",
       "time": "07-03 16:14",
       "url": "https://finance.yahoo.com/markets/commodities/articles/gold-jumps-fed-hike-odds-161431739.html"
@@ -628,54 +628,54 @@
   "commodities": [
     {
       "name": "黃金",
-      "price": 4196.0,
-      "change": 83.3,
-      "changePercent": 2.03,
-      "trend": "strong_up"
+      "price": 4112.7,
+      "change": 44.4,
+      "changePercent": 1.09,
+      "trend": "up"
     },
     {
       "name": "白銀",
-      "price": 63.15,
-      "change": 2.51,
-      "changePercent": 4.14,
-      "trend": "strong_up"
+      "price": 60.64,
+      "change": 0.56,
+      "changePercent": 0.93,
+      "trend": "up"
     },
     {
       "name": "原油(WTI)",
-      "price": 68.32,
-      "change": -0.37,
-      "changePercent": -0.54,
-      "trend": "down"
+      "price": 68.69,
+      "change": 0.11,
+      "changePercent": 0.16,
+      "trend": "up"
     },
     {
       "name": "布蘭特原油",
-      "price": 71.69,
-      "change": -0.11,
+      "price": 71.8,
+      "change": 0.23,
+      "changePercent": 0.32,
+      "trend": "up"
+    },
+    {
+      "name": "銅",
+      "price": 6.11,
+      "change": -0.01,
       "changePercent": -0.15,
       "trend": "down"
     },
     {
-      "name": "銅",
-      "price": 6.22,
-      "change": 0.11,
-      "changePercent": 1.79,
-      "trend": "up"
-    },
-    {
       "name": "天然氣",
-      "price": 3.18,
-      "change": -0.01,
-      "changePercent": -0.34,
+      "price": 3.2,
+      "change": -0.02,
+      "changePercent": -0.75,
       "trend": "down"
     }
   ],
   "forex": [
     {
       "name": "美元指數",
-      "rate": 100.881,
-      "change": 0.021,
-      "changePercent": 0.02,
-      "trend": "up"
+      "rate": 100.86,
+      "change": -0.53,
+      "changePercent": -0.52,
+      "trend": "down"
     },
     {
       "name": "EUR/USD",
@@ -745,10 +745,10 @@
   ],
   "sentiment": {
     "fearGreed": {
-      "current": 31.9,
-      "previous": 31.4,
-      "weekAgo": 25.1,
-      "monthAgo": 53.0,
+      "current": 34.1,
+      "previous": 34.1,
+      "weekAgo": 27.3,
+      "monthAgo": 41.8,
       "yearAgo": 77.6,
       "label": "fear"
     },
@@ -757,7 +757,7 @@
       "label": "中波動"
     },
     "tenYearYield": 4.485,
-    "dollarIndex": 100.88,
+    "dollarIndex": 100.86,
     "yieldSpread": 0.255,
     "economicCycle": {
       "phase": "recession",
@@ -1198,57 +1198,57 @@
     {
       "name": "Bitcoin",
       "symbol": "BTC",
-      "price": 63088.3,
-      "change": 544.11,
-      "changePercent": 0.87,
+      "price": 63547.88,
+      "change": 459.58,
+      "changePercent": 0.73,
       "trend": "up"
     },
     {
       "name": "Ethereum",
       "symbol": "ETH",
-      "price": 1779.03,
-      "change": 22.51,
-      "changePercent": 1.28,
+      "price": 1783.01,
+      "change": 3.97,
+      "changePercent": 0.22,
       "trend": "up"
     },
     {
       "name": "BNB",
       "symbol": "BNB",
-      "price": 574.97,
-      "change": 1.53,
-      "changePercent": 0.27,
-      "trend": "up"
+      "price": 588.94,
+      "change": 13.96,
+      "changePercent": 2.43,
+      "trend": "strong_up"
     },
     {
       "name": "Solana",
       "symbol": "SOL",
-      "price": 81.65,
-      "change": -0.63,
-      "changePercent": -0.77,
+      "price": 81.42,
+      "change": -0.23,
+      "changePercent": -0.28,
       "trend": "down"
     },
     {
       "name": "XRP",
       "symbol": "XRP",
       "price": 1.16,
-      "change": 0.02,
-      "changePercent": 2.02,
-      "trend": "strong_up"
+      "change": -0.0,
+      "changePercent": -0.08,
+      "trend": "down"
     },
     {
       "name": "Cardano",
       "symbol": "ADA",
       "price": 0.19,
-      "change": 0.01,
-      "changePercent": 6.73,
-      "trend": "strong_up"
+      "change": -0.0,
+      "changePercent": -1.39,
+      "trend": "down"
     },
     {
       "name": "Dogecoin",
       "symbol": "DOGE",
       "price": 0.08,
       "change": 0.0,
-      "changePercent": 0.13,
+      "changePercent": 0.19,
       "trend": "up"
     }
   ]
