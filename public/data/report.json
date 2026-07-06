@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "generatedAt": "2026-07-06 16:27",
+  "generatedAt": "2026-07-06 16:34",
   "heroIndicators": [
     {
       "name": "S&P 500",
@@ -515,12 +515,23 @@
   ],
   "news": [
     {
+      "impact": "high",
+      "sentiment": "bull",
+      "region": "美國",
+      "titleZh": "通膨緩解 標普期指揚升",
+      "titleEn": "US Stock Market Today: S&P 500 Futures Rise As Inflation Jitters Temporarily Ease",
+      "summary": "通膨擔憂暫緩，科技股領漲，市場情緒轉佳，美股期貨走高。",
+      "source": "Simply Wall St.",
+      "time": "07-06 08:09",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080927004.html"
+    },
+    {
       "impact": "mid",
       "sentiment": "bull",
       "region": "全球",
-      "titleZh": "比特幣等主流幣反彈，恐懼中看漲",
+      "titleZh": "加密貨幣齊漲 分析師看多",
       "titleEn": "Bitcoin, Ethereum, XRP, Dogecoin Rally as 'Extreme Fear' Persists: Analyst Expects a 'Quick' Move Upward for BTC After 'Shallow' Correction",
-      "summary": "加密貨幣在「極度恐懼」情緒中反彈，分析師預期比特幣短期修正後將快速上漲，市場情緒偏多。",
+      "summary": "比特幣等加密貨幣反彈，投資人等待聯準會會議紀錄，極度恐懼中醞釀漲勢。",
       "source": "Benzinga",
       "time": "07-06 01:52",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-rally-015240911.html"
@@ -529,20 +540,20 @@
       "impact": "high",
       "sentiment": "bear",
       "region": "美國",
-      "titleZh": "美國6月僅增5.7萬就業，失業率降至4.2%",
+      "titleZh": "美6月僅增5.7萬就業",
       "titleEn": "U.S. economy adds 57,000 jobs in June as the unemployment rate dips to 4.2%",
-      "summary": "就業數據遠低預期，薪資增長連續三個月低於通膨，勞動市場穩定性引發擔憂，市場避險情緒升溫。",
+      "summary": "就業數據遠遜預期，薪資成長落後通膨，勞動市場穩定性引發擔憂。",
       "source": "CNBC",
       "time": "Thu, 02 Jul 2026",
       "url": "https://www.nbcnews.com/now/video/u-s-economy-adds-57-000-jobs-in-june-as-the-unemployment-rate-dips-to-4-2-266069061779"
     },
     {
-      "impact": "mid",
+      "impact": "low",
       "sentiment": "neutral",
       "region": "美國",
-      "titleZh": "地圖：聯邦與州汽油稅負擔一覽",
+      "titleZh": "汽油稅地圖 各州差異大",
       "titleEn": "Map: How much you pay in federal and state gas taxes",
-      "summary": "全美汽油均價逼近5美元，部分州暫停徵收汽油稅，川普政府亦討論跟進，短期可能緩解通膨壓力。",
+      "summary": "美國汽油價格逼近5美元，部分州暫停徵稅，聯邦層級亦討論跟進。",
       "source": "CNBC",
       "time": "Mon, 11 May 2026",
       "url": "https://www.nbcnews.com/data-graphics/federal-gas-tax-rate-states-trump-iran-war-prices-map-rcna344540"
@@ -551,9 +562,9 @@
       "impact": "high",
       "sentiment": "bear",
       "region": "美國",
-      "titleZh": "6月僅增5.7萬就業，薪資成長緩慢",
+      "titleZh": "美6月就業僅增5.7萬",
       "titleEn": "U.S. adds just 57,000 jobs in June, a worrying sign as wage growth remains slow",
-      "summary": "就業成長疲軟，薪資增速落後於通膨，勞動市場穩定性堪憂，聯準會升息預期降溫。",
+      "summary": "就業成長疲弱且薪資未追上通膨，市場對勞動市場穩定性信心下滑。",
       "source": "CNBC",
       "time": "Thu, 02 Jul 2026",
       "url": "https://www.nbcnews.com/business/economy/june-jobs-report-stable-hiring-rcna352603"
@@ -561,32 +572,21 @@
     {
       "impact": "mid",
       "sentiment": "bull",
-      "region": "全球",
-      "titleZh": "加密市場為何今日上揚？",
-      "titleEn": "Why Is The Crypto Market Up Today?",
-      "summary": "加密市值升至2.17兆美元，受Fed官員鴿派言論、礦工底部訊號及HYPE領漲帶動，市場情緒轉多。",
-      "source": "Yahoo Finance",
-      "time": "Mon, 06 Jul 2026",
-      "url": "https://beincrypto.com/why-is-the-crypto-market-up-today/?.tsrc=rss"
-    },
-    {
-      "impact": "mid",
-      "sentiment": "bull",
       "region": "美國",
-      "titleZh": "美股期貨上漲，週一開盤前聚焦Fed會議紀錄",
+      "titleZh": "美股期貨漲 等待聯準會紀錄",
       "titleEn": "Nasdaq, S&P 500, Dow Futures Rise After Fourth Of July Break As Investors Await Fed Minutes: SLS, ONDS, HOOD, MARA, HUT In Focus",
-      "summary": "美股期貨在國慶日假期後走高，延續前一週強勁反彈，市場等待聯準會6月會議紀錄。",
+      "summary": "獨立日假期後期貨走高，投資人關注聯準會會議紀錄及科技股動向。",
       "source": "Stocktwits",
       "time": "07-06 00:58",
       "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-rise-after-fourth-of-july-break-as-investors-await-fed-minutes/cZmKumjR7kK"
     },
     {
       "impact": "mid",
-      "sentiment": "bear",
+      "sentiment": "neutral",
       "region": "全球",
-      "titleZh": "油價持穩於戰前水平，荷姆茲海峽航運持續",
+      "titleZh": "油價穩 霍爾木茲海峽貨運正常",
       "titleEn": "Oil Steady at Prewar Levels as Ships Continue to Moving Through Strait of Hormuz",
-      "summary": "油價接近四個月低點，市場預期美伊關係緩和，供應擔憂減輕，油價短期承壓。",
+      "summary": "油價持於戰前水準，因伊朗與美國局勢緩和，海峽運輸未受阻。",
       "source": "MT Newswires",
       "time": "07-03 12:52",
       "url": "https://finance.yahoo.com/energy/articles/oil-steady-prewar-levels-ships-125223538.html"
@@ -595,9 +595,9 @@
       "impact": "mid",
       "sentiment": "bull",
       "region": "全球",
-      "titleZh": "金價走高，美元因通膨緩解而走弱",
+      "titleZh": "美元弱 金價走高",
       "titleEn": "Update: Gold Moves Higher as the Dollar Weakens on Easing Inflation Worries",
-      "summary": "美元走軟及通膨擔憂降溫支撐金價上揚，黃金在避險與美元弱勢下獲得買盤。",
+      "summary": "通膨擔憂減輕使美元走軟，黃金價格在電子盤交易中上揚。",
       "source": "MT Newswires",
       "time": "07-03 17:51",
       "url": "https://finance.yahoo.com/markets/commodities/articles/gold-moves-higher-dollar-weakens-175134060.html"
@@ -606,9 +606,9 @@
       "impact": "mid",
       "sentiment": "neutral",
       "region": "全球",
-      "titleZh": "油價持穩於戰前水平，荷姆茲海峽航運續行",
+      "titleZh": "油價穩 海峽通行無礙",
       "titleEn": "Update: Oil Steady at Prewar Levels as Ships Continue to Moving Through Strait of Hormuz",
-      "summary": "油價午後大致穩定，維持在戰前水準附近，市場對供應中斷擔憂減弱。",
+      "summary": "油價午後持穩，維持四個月低點，因地緣政治風險降溫。",
       "source": "MT Newswires",
       "time": "07-03 18:26",
       "url": "https://finance.yahoo.com/energy/articles/oil-steady-prewar-levels-ships-182655323.html"
@@ -617,9 +617,9 @@
       "impact": "high",
       "sentiment": "bull",
       "region": "全球",
-      "titleZh": "金價跳漲，Fed升息機率降至18%",
+      "titleZh": "就業弱 金價跳升",
       "titleEn": "Gold Jumps as Fed Hike Odds Drop to 18%",
-      "summary": "美國就業數據疲弱推動金價上漲，市場大幅下調7月升息預期，黃金避險需求增加。",
+      "summary": "美國就業數據疲弱，聯準會升息機率降至18%，黃金價格進一步上漲。",
       "source": "GuruFocus.com",
       "time": "07-03 16:14",
       "url": "https://finance.yahoo.com/markets/commodities/articles/gold-jumps-fed-hike-odds-161431739.html"
