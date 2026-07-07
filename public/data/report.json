@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "generatedAt": "2026-07-07 09:01",
+  "generatedAt": "2026-07-07 10:55",
   "heroIndicators": [
     {
       "name": "S&P 500",
@@ -118,11 +118,10 @@
     },
     {
       "name": "日經225",
-      "value": 69744.07,
-      "change": 1010.92,
-      "changePercent": 1.47,
+      "value": 69737.69,
+      "change": -6.38,
+      "changePercent": -0.01,
       "sparklineData": [
-        65158.19,
         64996.09,
         64999.41,
         64693.12,
@@ -151,14 +150,15 @@
         70062.32,
         70474.96,
         68733.15,
-        69744.07
+        69744.07,
+        69737.69
       ]
     },
     {
       "name": "黃金",
-      "value": 4163.1,
-      "change": 50.4,
-      "changePercent": 1.23,
+      "value": 4151.3,
+      "change": 38.6,
+      "changePercent": 0.94,
       "sparklineData": [
         4539.8,
         4521.0,
@@ -189,14 +189,14 @@
         4022.9,
         4068.3,
         4112.7,
-        4163.1
+        4151.3
       ]
     },
     {
       "name": "WTI 原油",
-      "value": 68.79,
-      "change": 0.1,
-      "changePercent": 0.15,
+      "value": 69.09,
+      "change": 0.4,
+      "changePercent": 0.58,
       "sparklineData": [
         96.35,
         96.6,
@@ -227,14 +227,14 @@
         69.5,
         68.58,
         68.69,
-        68.79
+        69.09
       ]
     },
     {
       "name": "美元指數",
-      "value": 100.88,
-      "change": 0.02,
-      "changePercent": 0.02,
+      "value": 100.86,
+      "change": 0.0,
+      "changePercent": 0.0,
       "sparklineData": [
         99.19,
         99.32,
@@ -265,7 +265,7 @@
         101.19,
         101.39,
         100.86,
-        100.88
+        100.86
       ]
     },
     {
@@ -358,59 +358,59 @@
       "indices": [
         {
           "name": "日經225",
-          "close": 69744.07,
-          "change": 1010.92,
-          "changePercent": 1.47,
-          "trend": "up",
-          "ytd": 34.56
+          "close": 69737.69,
+          "change": -6.38,
+          "changePercent": -0.01,
+          "trend": "down",
+          "ytd": 34.54
         },
         {
           "name": "台灣加權",
-          "close": 46780.62,
-          "change": 36.46,
-          "changePercent": 0.08,
-          "trend": "up",
-          "ytd": 59.39
+          "close": 46556.39,
+          "change": -224.23,
+          "changePercent": -0.48,
+          "trend": "down",
+          "ytd": 58.63
         },
         {
           "name": "香港恆生",
-          "close": 23350.03,
-          "change": 295.0,
-          "changePercent": 1.28,
+          "close": 23616.32,
+          "change": 266.29,
+          "changePercent": 1.14,
           "trend": "up",
-          "ytd": -11.35
+          "ytd": -10.34
         },
         {
           "name": "上證綜指",
-          "close": 4043.64,
-          "change": 14.74,
-          "changePercent": 0.37,
-          "trend": "up",
-          "ytd": 0.5
+          "close": 4041.24,
+          "change": -2.41,
+          "changePercent": -0.06,
+          "trend": "down",
+          "ytd": 0.44
         },
         {
           "name": "深證成指",
-          "close": 15597.51,
-          "change": 98.7,
-          "changePercent": 0.64,
-          "trend": "up",
-          "ytd": 12.79
+          "close": 15416.8,
+          "change": -180.71,
+          "changePercent": -1.16,
+          "trend": "down",
+          "ytd": 11.48
         },
         {
           "name": "韓國KOSPI",
-          "close": 8088.34,
-          "change": 440.25,
-          "changePercent": 5.76,
-          "trend": "strong_up",
-          "ytd": 87.68
+          "close": 8051.33,
+          "change": -37.01,
+          "changePercent": -0.46,
+          "trend": "down",
+          "ytd": 86.82
         },
         {
           "name": "澳洲ASX200",
-          "close": 8844.4,
-          "change": 119.9,
-          "changePercent": 1.37,
-          "trend": "up",
-          "ytd": 1.34
+          "close": 8831.0,
+          "change": -13.4,
+          "changePercent": -0.15,
+          "trend": "down",
+          "ytd": 1.18
         }
       ]
     },
@@ -419,27 +419,27 @@
       "indices": [
         {
           "name": "印度SENSEX",
-          "close": 77763.91,
-          "change": 261.79,
-          "changePercent": 0.34,
+          "close": 78285.07,
+          "change": 521.16,
+          "changePercent": 0.67,
           "trend": "up",
-          "ytd": -8.72
+          "ytd": -8.1
         },
         {
           "name": "印度NIFTY50",
-          "close": 24270.85,
-          "change": 95.15,
-          "changePercent": 0.39,
+          "close": 24430.35,
+          "change": 159.5,
+          "changePercent": 0.66,
           "trend": "up",
-          "ytd": -7.17
+          "ytd": -6.56
         },
         {
           "name": "印尼雅加達綜合",
-          "close": 5875.78,
-          "change": 131.22,
-          "changePercent": 2.28,
-          "trend": "strong_up",
-          "ytd": -32.83
+          "close": 5916.07,
+          "change": 40.29,
+          "changePercent": 0.69,
+          "trend": "up",
+          "ytd": -32.37
         },
         {
           "name": "泰國SET",
@@ -451,11 +451,11 @@
         },
         {
           "name": "馬來西亞KLCI",
-          "close": 1679.05,
-          "change": 17.22,
-          "changePercent": 1.04,
+          "close": 1683.53,
+          "change": 4.48,
+          "changePercent": 0.27,
           "trend": "up",
-          "ytd": 0.56
+          "ytd": 0.82
         },
         {
           "name": "菲律賓PSEi",
@@ -472,43 +472,43 @@
       "indices": [
         {
           "name": "德國DAX",
-          "close": 25779.31,
-          "change": 198.43,
-          "changePercent": 0.78,
+          "close": 25817.89,
+          "change": 38.58,
+          "changePercent": 0.15,
           "trend": "up",
-          "ytd": 5.05
+          "ytd": 5.21
         },
         {
           "name": "英國FTSE100",
-          "close": 10679.0,
-          "change": 26.1,
-          "changePercent": 0.25,
-          "trend": "up",
-          "ytd": 7.31
+          "close": 10651.8,
+          "change": -27.2,
+          "changePercent": -0.25,
+          "trend": "down",
+          "ytd": 7.04
         },
         {
           "name": "法國CAC40",
-          "close": 8508.07,
-          "change": 33.21,
-          "changePercent": 0.39,
-          "trend": "up",
-          "ytd": 3.82
+          "close": 8479.87,
+          "change": -28.2,
+          "changePercent": -0.33,
+          "trend": "down",
+          "ytd": 3.47
         },
         {
           "name": "歐洲STOXX50",
-          "close": 6412.68,
-          "change": 52.21,
-          "changePercent": 0.82,
-          "trend": "up",
-          "ytd": 8.25
+          "close": 6398.01,
+          "change": -14.67,
+          "changePercent": -0.23,
+          "trend": "down",
+          "ytd": 8.01
         },
         {
           "name": "瑞士SMI",
-          "close": 14424.24,
-          "change": 71.26,
-          "changePercent": 0.5,
-          "trend": "up",
-          "ytd": 8.88
+          "close": 14302.26,
+          "change": -121.98,
+          "changePercent": -0.85,
+          "trend": "down",
+          "ytd": 7.96
         }
       ]
     }
@@ -517,10 +517,10 @@
     {
       "impact": "mid",
       "sentiment": "neutral",
-      "region": "美国",
-      "titleZh": "JEPQ月配息ETF规避大型科技风险",
+      "region": "美國",
+      "titleZh": "JEPQ限制漲幅換月配息",
       "titleEn": "Nasdaq Income Without the Megacap Risk: How JEPQ Caps Your Upside for Monthly Cash",
-      "summary": "JEPQ以牺牲部分上涨空间换取月配息，适合追求稳定现金流的投资者，对科技股吸引力有限。",
+      "summary": "JEPQ提供月配息，但犧牲上漲潛力，適合追求穩定現金流的保守型投資人。",
       "source": "24/7 Wall St.",
       "time": "07-06 21:01",
       "url": "https://247wallst.com/investing/2026/07/06/nasdaq-income-without-the-megacap-risk-how-jepq-caps-your-upside-for-monthly-cash/"
@@ -528,10 +528,10 @@
     {
       "impact": "high",
       "sentiment": "bear",
-      "region": "美国",
-      "titleZh": "6月美国新增就业5.7万，失业率降至4.2%",
+      "region": "美國",
+      "titleZh": "美6月僅增5.7萬就業",
       "titleEn": "U.S. economy adds 57,000 jobs in June as the unemployment rate dips to 4.2%",
-      "summary": "就业增长疲弱且薪资涨幅低于通胀，暗示劳动力市场降温，可能促使美联储更鸽派。",
+      "summary": "就業數據疲軟，薪資增長低於通膨，引發勞動市場穩定性擔憂，可能促使聯準會鴿派。",
       "source": "CNBC",
       "time": "Thu, 02 Jul 2026",
       "url": "https://www.nbcnews.com/now/video/u-s-economy-adds-57-000-jobs-in-june-as-the-unemployment-rate-dips-to-4-2-266069061779"
@@ -539,10 +539,10 @@
     {
       "impact": "mid",
       "sentiment": "bear",
-      "region": "美国",
-      "titleZh": "伊朗战争以来美国汽油多支出330亿",
+      "region": "美國",
+      "titleZh": "伊朗戰爭致油價多花330億",
       "titleEn": "Gas cost calculator: How much have higher gas prices cost you?",
-      "summary": "油价上涨加重消费者负担，可能抑制消费支出，对经济复苏构成压力。",
+      "summary": "美國人油費大增，反映地緣政治對通膨與消費支出的持續壓力。",
       "source": "CNBC",
       "time": "Sat, 20 Jun 2026",
       "url": "https://www.nbcnews.com/data-graphics/gas-price-calculator-iran-war-2026-rcna350151"
@@ -550,54 +550,54 @@
     {
       "impact": "high",
       "sentiment": "bull",
-      "region": "全球",
-      "titleZh": "6月就业数据疲弱利好这些ETF板块",
+      "region": "美國",
+      "titleZh": "6月就業疲弱推升ETF",
       "titleEn": "Weak June Jobs Data Likely to Boost These ETF Areas",
-      "summary": "弱数据提升降息预期，医疗、科技、黄金和新兴市场ETF受关注，资金可能轮动。",
+      "summary": "就業數據低迷，市場預期聯準會寬鬆，醫療、科技、黃金與新興市場ETF受青睞。",
       "source": "Zacks",
       "time": "07-06 15:00",
       "url": "https://finance.yahoo.com/economy/policy/articles/weak-june-jobs-data-likely-150000913.html"
     },
     {
-      "impact": "mid",
+      "impact": "high",
       "sentiment": "bull",
       "region": "全球",
-      "titleZh": "通胀担忧缓解，黄金升至两周高点",
+      "titleZh": "金價漲至兩週高點",
       "titleEn": "Gold Rises to a Two-Week High on Easing Inflation Concerns",
-      "summary": "美债收益率回落支撑金价上涨，避险需求回升，黄金短期看多。",
+      "summary": "通膨疑慮緩解與殖利率回落，推動金價創兩週新高，避險需求升溫。",
       "source": "MT Newswires",
       "time": "07-06 13:06",
       "url": "https://finance.yahoo.com/markets/commodities/articles/gold-rises-two-week-high-130630789.html"
     },
     {
-      "impact": "mid",
+      "impact": "high",
       "sentiment": "bear",
       "region": "全球",
-      "titleZh": "供应恢复正常，油价接近四个月低点",
+      "titleZh": "油價接近四個月低點",
       "titleEn": "Oil Sticks Near a Four-Month Low as Supply Continues to Return to Normal",
-      "summary": "原油供应回升使价格承压，油价接近战前水平，对通胀压力有缓解作用。",
+      "summary": "供應逐漸恢復正常，油價持續走弱，接近戰前水準，緩解通膨壓力。",
       "source": "MT Newswires",
       "time": "07-06 12:45",
       "url": "https://finance.yahoo.com/energy/articles/oil-sticks-near-four-month-124510186.html"
     },
     {
-      "impact": "mid",
+      "impact": "high",
       "sentiment": "bull",
       "region": "全球",
-      "titleZh": "通胀缓和推升黄金至两周新高",
+      "titleZh": "金價續漲至兩週新高",
       "titleEn": "Update: Gold Rises to a Two-Week High on Easing Inflation Concerns",
-      "summary": "更新金价数据，避险情绪与降息预期共同推动黄金走强。",
+      "summary": "通膨降溫預期與殖利率下滑，支撐金價連續三日上漲，市場情緒偏多。",
       "source": "MT Newswires",
       "time": "07-06 17:54",
       "url": "https://finance.yahoo.com/markets/commodities/articles/gold-rises-two-week-high-175445777.html"
     },
     {
-      "impact": "high",
+      "impact": "mid",
       "sentiment": "neutral",
       "region": "全球",
-      "titleZh": "微软裁员4800人投入AI，值得持有吗？",
+      "titleZh": "微軟裁員4800人投AI",
       "titleEn": "Microsoft Is Cutting 4,800 Jobs to Feed the AI Machine. Should You Still Own It?",
-      "summary": "微软裁员并加大AI支出，短期利空但长期聚焦AI，股价可能波动，需关注执行风险。",
+      "summary": "微軟大幅裁員並加大AI投資，短期營運成本增加，但長期成長潛力仍受關注。",
       "source": "24/7 Wall St.",
       "time": "07-06 19:58",
       "url": "https://247wallst.com/investing/2026/07/06/microsoft-is-cutting-4800-jobs-to-feed-the-ai-machine-should-you-still-own-it/"
@@ -606,9 +606,9 @@
       "impact": "mid",
       "sentiment": "bull",
       "region": "全球",
-      "titleZh": "黄金遭遇13年最差季度，GDX或现反弹机会",
+      "titleZh": "金礦股指數Q2重挫21%",
       "titleEn": "Gold Just Had Its Worst Quarter in 13 Years, and GDX Might Be the Contrarian Rebound Nobody’s Talking About",
-      "summary": "GDX二季度暴跌21%，估值偏低，若黄金回暖，矿股可能迎来逆向反弹。",
+      "summary": "金礦股經歷13年最差季度，GDX大跌後可能出現逆勢反彈機會。",
       "source": "24/7 Wall St.",
       "time": "07-06 18:55",
       "url": "https://247wallst.com/personal-finance/2026/07/06/gold-just-had-its-worst-quarter-in-13-years-and-gdx-might-be-the-contrarian-rebound-nobodys-talking-about/"
@@ -617,9 +617,9 @@
       "impact": "mid",
       "sentiment": "bear",
       "region": "全球",
-      "titleZh": "MicroStrategy为何出售2.16亿美元比特币？",
+      "titleZh": "Strategy出售2.16億美元比特幣",
       "titleEn": "Why did Strategy sell $216 million in bitcoin?",
-      "summary": "公司减持比特币套现，可能为补充流动性或调整持仓，短期对币价构成压力。",
+      "summary": "Strategy拋售比特幣套現，引發市場對其策略轉向的疑慮，加密貨幣波動加劇。",
       "source": "Yahoo Finance Video",
       "time": "07-06 16:30",
       "url": "https://finance.yahoo.com/video/why-did-strategy-sell-216-163000857.html"
@@ -628,53 +628,53 @@
   "commodities": [
     {
       "name": "黃金",
-      "price": 4163.1,
-      "change": 50.4,
-      "changePercent": 1.23,
+      "price": 4151.3,
+      "change": 38.6,
+      "changePercent": 0.94,
       "trend": "up"
     },
     {
       "name": "白銀",
-      "price": 62.13,
-      "change": 1.49,
-      "changePercent": 2.45,
+      "price": 61.96,
+      "change": 1.32,
+      "changePercent": 2.17,
       "trend": "strong_up"
     },
     {
       "name": "原油(WTI)",
-      "price": 68.79,
-      "change": 0.1,
-      "changePercent": 0.15,
+      "price": 69.09,
+      "change": 0.4,
+      "changePercent": 0.58,
       "trend": "up"
     },
     {
       "name": "布蘭特原油",
-      "price": 72.27,
-      "change": 0.47,
-      "changePercent": 0.65,
+      "price": 72.55,
+      "change": 0.75,
+      "changePercent": 1.04,
       "trend": "up"
     },
     {
       "name": "銅",
-      "price": 6.24,
-      "change": 0.12,
-      "changePercent": 2.0,
+      "price": 6.25,
+      "change": 0.14,
+      "changePercent": 2.24,
       "trend": "strong_up"
     },
     {
       "name": "天然氣",
-      "price": 3.26,
-      "change": 0.06,
-      "changePercent": 1.91,
+      "price": 3.24,
+      "change": 0.04,
+      "changePercent": 1.35,
       "trend": "up"
     }
   ],
   "forex": [
     {
       "name": "美元指數",
-      "rate": 100.884,
-      "change": 0.024,
-      "changePercent": 0.02,
+      "rate": 100.862,
+      "change": 0.002,
+      "changePercent": 0.0,
       "trend": "up"
     },
     {
@@ -757,7 +757,7 @@
       "label": "低波動"
     },
     "tenYearYield": 4.479,
-    "dollarIndex": 100.88,
+    "dollarIndex": 100.86,
     "yieldSpread": 0.268,
     "economicCycle": {
       "phase": "recession",
