@@ -1,14 +1,13 @@
 {
-  "date": "2026-09-16",
-  "generatedAt": "2026-09-16 09:01",
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-17 09:00",
   "heroIndicators": [
     {
       "name": "S&P 500",
-      "value": 7585.73,
-      "change": -34.25,
+      "value": 7551.81,
+      "change": -33.92,
       "changePercent": -0.45,
       "sparklineData": [
-        7736.52,
         7723.55,
         7709.96,
         7757.64,
@@ -37,16 +36,16 @@
         7591.7,
         7656.98,
         7619.98,
-        7585.73
+        7585.73,
+        7551.81
       ]
     },
     {
       "name": "納斯達克",
-      "value": 25981.57,
-      "change": -204.84,
-      "changePercent": -0.78,
+      "value": 25978.42,
+      "change": -3.15,
+      "changePercent": -0.01,
       "sparklineData": [
-        26584.99,
         26363.44,
         26348.35,
         26690.62,
@@ -75,16 +74,16 @@
         26081.72,
         26333.04,
         26186.41,
-        25981.57
+        25981.57,
+        25978.42
       ]
     },
     {
       "name": "道瓊斯",
-      "value": 52093.11,
-      "change": -328.09,
-      "changePercent": -0.63,
+      "value": 51461.9,
+      "change": -631.21,
+      "changePercent": -1.21,
       "sparklineData": [
-        54085.88,
         54349.12,
         53885.1,
         54036.93,
@@ -113,16 +112,16 @@
         52064.1,
         52573.29,
         52421.2,
-        52093.11
+        52093.11,
+        51461.9
       ]
     },
     {
       "name": "日經225",
-      "value": 63492.99,
-      "change": -518.35,
-      "changePercent": -0.81,
+      "value": 63484.1,
+      "change": -8.89,
+      "changePercent": -0.01,
       "sparklineData": [
-        63754.9,
         63957.53,
         66300.44,
         65683.26,
@@ -151,16 +150,16 @@
         65142.78,
         65270.95,
         64011.34,
-        63492.99
+        63492.99,
+        63484.1
       ]
     },
     {
       "name": "黃金",
-      "value": 4321.2,
-      "change": -30.7,
-      "changePercent": -0.71,
+      "value": 4321.5,
+      "change": -11.3,
+      "changePercent": -0.26,
       "sparklineData": [
-        4152.6,
         4305.2,
         4299.6,
         4399.7,
@@ -189,16 +188,16 @@
         4407.3,
         4408.9,
         4351.9,
-        4321.2
+        4332.8,
+        4321.5
       ]
     },
     {
       "name": "WTI 原油",
-      "value": 105.29,
-      "change": 3.9,
-      "changePercent": 3.85,
+      "value": 101.15,
+      "change": -4.68,
+      "changePercent": -4.42,
       "sparklineData": [
-        75.77,
         75.22,
         77.29,
         78.18,
@@ -227,16 +226,16 @@
         102.48,
         100.05,
         101.39,
-        105.29
+        105.83,
+        101.15
       ]
     },
     {
       "name": "美元指數",
-      "value": 99.71,
-      "change": 0.25,
-      "changePercent": 0.25,
+      "value": 100.29,
+      "change": 0.64,
+      "changePercent": 0.65,
       "sparklineData": [
-        99.89,
         99.69,
         99.97,
         99.6,
@@ -265,16 +264,16 @@
         99.09,
         99.12,
         99.46,
-        99.71
+        99.65,
+        100.29
       ]
     },
     {
       "name": "Bitcoin",
-      "value": 78163.38,
-      "change": 1325.23,
-      "changePercent": 1.72,
+      "value": 75612.51,
+      "change": -2550.88,
+      "changePercent": -3.26,
       "sparklineData": [
-        62818.65,
         64506.25,
         64680.71,
         69266.19,
@@ -303,7 +302,8 @@
         77173.8,
         77270.47,
         76838.16,
-        78163.38
+        78163.38,
+        75612.51
       ]
     }
   ],
@@ -313,43 +313,43 @@
       "indices": [
         {
           "name": "S&P 500",
-          "close": 7585.73,
-          "change": -34.25,
+          "close": 7551.81,
+          "change": -33.92,
           "changePercent": -0.45,
           "trend": "down",
-          "ytd": 10.6
+          "ytd": 10.11
         },
         {
           "name": "納斯達克",
-          "close": 25981.57,
-          "change": -204.84,
-          "changePercent": -0.78,
+          "close": 25978.42,
+          "change": -3.15,
+          "changePercent": -0.01,
           "trend": "down",
-          "ytd": 11.82
+          "ytd": 11.8
         },
         {
           "name": "道瓊斯",
-          "close": 52093.11,
-          "change": -328.09,
-          "changePercent": -0.63,
+          "close": 51461.9,
+          "change": -631.21,
+          "changePercent": -1.21,
           "trend": "down",
-          "ytd": 7.67
+          "ytd": 6.36
         },
         {
           "name": "羅素2000",
-          "close": 2870.29,
-          "change": -21.95,
-          "changePercent": -0.76,
+          "close": 2858.81,
+          "change": -11.48,
+          "changePercent": -0.4,
           "trend": "down",
-          "ytd": 14.44
+          "ytd": 13.98
         },
         {
           "name": "費城半導體",
-          "close": 11175.55,
-          "change": 44.27,
-          "changePercent": 0.4,
+          "close": 11246.11,
+          "change": 70.56,
+          "changePercent": 0.63,
           "trend": "up",
-          "ytd": 51.69
+          "ytd": 52.65
         }
       ]
     },
@@ -358,59 +358,59 @@
       "indices": [
         {
           "name": "日經225",
-          "close": 63492.99,
-          "change": -518.35,
-          "changePercent": -0.81,
+          "close": 63484.1,
+          "change": -8.89,
+          "changePercent": -0.01,
           "trend": "down",
-          "ytd": 22.5
+          "ytd": 22.48
         },
         {
           "name": "台灣加權",
-          "close": 45862.52,
-          "change": -322.33,
-          "changePercent": -0.7,
+          "close": 45511.49,
+          "change": -351.03,
+          "changePercent": -0.77,
           "trend": "down",
-          "ytd": 56.26
+          "ytd": 55.07
         },
         {
           "name": "香港恆生",
-          "close": 24917.6,
-          "change": 111.97,
-          "changePercent": 0.45,
-          "trend": "up",
-          "ytd": -5.39
+          "close": 24667.24,
+          "change": -250.36,
+          "changePercent": -1.0,
+          "trend": "down",
+          "ytd": -6.35
         },
         {
           "name": "上證綜指",
-          "close": 3885.33,
-          "change": -2.78,
-          "changePercent": -0.07,
+          "close": 3864.28,
+          "change": -21.05,
+          "changePercent": -0.54,
           "trend": "down",
-          "ytd": -3.43
+          "ytd": -3.96
         },
         {
           "name": "深證成指",
-          "close": 13384.57,
-          "change": -86.69,
-          "changePercent": -0.64,
+          "close": 13287.97,
+          "change": -96.6,
+          "changePercent": -0.72,
           "trend": "down",
-          "ytd": -3.21
+          "ytd": -3.91
         },
         {
           "name": "韓國KOSPI",
-          "close": 6684.37,
-          "change": -225.54,
-          "changePercent": -3.26,
-          "trend": "strong_down",
-          "ytd": 55.1
+          "close": 6627.26,
+          "change": -57.11,
+          "changePercent": -0.85,
+          "trend": "down",
+          "ytd": 53.78
         },
         {
           "name": "澳洲ASX200",
-          "close": 8749.9,
-          "change": 8.7,
-          "changePercent": 0.1,
-          "trend": "up",
-          "ytd": 0.25
+          "close": 8672.5,
+          "change": -77.4,
+          "changePercent": -0.88,
+          "trend": "down",
+          "ytd": -0.63
         }
       ]
     },
@@ -419,27 +419,27 @@
       "indices": [
         {
           "name": "印度SENSEX",
-          "close": 74781.76,
-          "change": -120.84,
-          "changePercent": -0.16,
+          "close": 74003.82,
+          "change": -777.94,
+          "changePercent": -1.04,
           "trend": "down",
-          "ytd": -12.22
+          "ytd": -13.13
         },
         {
           "name": "印度NIFTY50",
-          "close": 23398.1,
-          "change": -79.7,
-          "changePercent": -0.34,
+          "close": 23118.6,
+          "change": -279.5,
+          "changePercent": -1.19,
           "trend": "down",
-          "ytd": -10.51
+          "ytd": -11.58
         },
         {
           "name": "印尼雅加達綜合",
-          "close": 6534.69,
-          "change": -6.68,
-          "changePercent": -0.1,
+          "close": 6461.15,
+          "change": -73.54,
+          "changePercent": -1.13,
           "trend": "down",
-          "ytd": -25.3
+          "ytd": -26.14
         },
         {
           "name": "泰國SET",
@@ -451,11 +451,11 @@
         },
         {
           "name": "馬來西亞KLCI",
-          "close": 1698.01,
-          "change": 11.27,
-          "changePercent": 0.67,
-          "trend": "up",
-          "ytd": 1.69
+          "close": 1679.21,
+          "change": -18.8,
+          "changePercent": -1.11,
+          "trend": "down",
+          "ytd": 0.57
         },
         {
           "name": "菲律賓PSEi",
@@ -472,43 +472,43 @@
       "indices": [
         {
           "name": "德國DAX",
-          "close": 25440.81,
-          "change": -127.75,
-          "changePercent": -0.5,
+          "close": 25402.28,
+          "change": -38.53,
+          "changePercent": -0.15,
           "trend": "down",
-          "ytd": 3.67
+          "ytd": 3.52
         },
         {
           "name": "英國FTSE100",
-          "close": 10697.6,
-          "change": 47.2,
-          "changePercent": 0.44,
-          "trend": "up",
-          "ytd": 7.5
+          "close": 10658.1,
+          "change": -39.5,
+          "changePercent": -0.37,
+          "trend": "down",
+          "ytd": 7.1
         },
         {
           "name": "法國CAC40",
-          "close": 8117.78,
-          "change": -61.99,
-          "changePercent": -0.76,
+          "close": 8090.28,
+          "change": -27.5,
+          "changePercent": -0.34,
           "trend": "down",
-          "ytd": -0.94
+          "ytd": -1.28
         },
         {
           "name": "歐洲STOXX50",
-          "close": 6260.38,
-          "change": -64.75,
-          "changePercent": -1.02,
+          "close": 6236.5,
+          "change": -23.88,
+          "changePercent": -0.38,
           "trend": "down",
-          "ytd": 5.68
+          "ytd": 5.28
         },
         {
           "name": "瑞士SMI",
-          "close": 13878.54,
-          "change": 103.27,
-          "changePercent": 0.75,
-          "trend": "up",
-          "ytd": 4.76
+          "close": 13808.87,
+          "change": -69.67,
+          "changePercent": -0.5,
+          "trend": "down",
+          "ytd": 4.24
         }
       ]
     }
@@ -518,247 +518,247 @@
       "impact": "high",
       "sentiment": "bear",
       "region": "全球",
-      "titleZh": "通膨憂慮與油價飆漲震動市場",
-      "titleEn": "Inflation Fears and Oil Surge Rattle Markets",
-      "summary": "中東局勢升溫推升油價，通膨預期再起，聯準會決策前市場避險情緒濃厚，股市承壓。",
-      "source": "etf.com",
-      "time": "09-15 19:45",
-      "url": "http://www.etf.com/sections/bonds/inflation-fears-and-oil-surge-rattle-markets?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss"
-    },
-    {
-      "impact": "mid",
-      "sentiment": "bear",
-      "region": "全球",
-      "titleZh": "比特幣以太幣聯準會前走跌",
-      "titleEn": "Bitcoin and ethereum prices today, Tuesday, September 15, 2026: Crypto prices sliding this morning ahead of Fed meeting",
-      "summary": "加密貨幣在聯準會會議前回落，比特幣自高點下滑，反映市場對升息風險的謹慎態度。",
+      "titleZh": "CLARITY法案失败与美联储决议前加密暴跌",
+      "titleEn": "Bitcoin and ethereum prices today, Wednesday, September 16, 2026: Crypto prices tank after CLARITY Act fails and ahead of Fed decision",
+      "summary": "加密法案受阻叠加美联储决议不确定性，比特币跌至7.5万美元附近，短期抛压加剧。",
       "source": "Yahoo Personal Finance",
-      "time": "09-15 11:37",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-15-2026-crypto-prices-sliding-this-morning-ahead-of-fed-meeting-113732149.html"
-    },
-    {
-      "impact": "mid",
-      "sentiment": "bear",
-      "region": "美國",
-      "titleZh": "監管機構漏查瓦特保險帝國210億",
-      "titleEn": "Regulators missed $21B in Mark Walter's insurance empire",
-      "summary": "聯邦調查發現馬克·瓦特控制的保險公司將210億美元投入關聯企業，引發公司治理與監管漏洞疑慮。",
-      "source": "CNBC",
-      "time": "Fri, 11 Sep 2026",
-      "url": "https://www.nbcnews.com/video/regulators-missed-21b-in-mark-walter-s-insurance-empire-269723205914"
-    },
-    {
-      "impact": "low",
-      "sentiment": "neutral",
-      "region": "美國",
-      "titleZh": "盧特尼克稱5000美元支票非納稅人出資",
-      "titleEn": "Lutnick says promised $5,000 checks for Americans won't come from taxpayer dollars",
-      "summary": "商務部長盧特尼克為期中選舉承諾的5000美元支票辯護，市場關注財政政策走向及貿易戰影響。",
-      "source": "CNBC",
-      "time": "Fri, 11 Sep 2026",
-      "url": "https://www.nbcnews.com/video/lutnick-says-promised-5-000-checks-for-americans-won-t-come-from-taxpayer-dollars-269727813572"
+      "time": "09-16 11:25",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-16-2026-crypto-prices-tank-after-clarity-act-fails-and-ahead-of-fed-decision-112517152.html"
     },
     {
       "impact": "high",
-      "sentiment": "neutral",
+      "sentiment": "bear",
+      "region": "美国",
+      "titleZh": "美联储准备加息，市场密切关注",
+      "titleEn": "Federal Reserve Poised to Raise Interest Rates: What to Know",
+      "summary": "通胀与物价上行令美联储加息预期升温，市场聚焦政策信号，波动风险加大。",
+      "source": "CNBC",
+      "time": "Wed, 16 Sep 2026",
+      "url": "https://www.today.com/video/federal-reserve-poised-to-raise-interest-rates-what-to-know-269957189612"
+    },
+    {
+      "impact": "high",
+      "sentiment": "bear",
       "region": "全球",
-      "titleZh": "市場導航：通膨、殖利率與聯準會",
+      "titleZh": "美联储加息25基点，预计2026年再涨",
+      "titleEn": "Fed Hikes 25 Basis Points, Projects Another Hike in 2026: Do Prediction Markets Agree?",
+      "summary": "美联储如期加息并暗示后续仍有紧缩，政策偏鹰打压风险资产估值。",
+      "source": "Benzinga Prediction Markets",
+      "time": "09-16 19:15",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61827327/fed-rate-hike-another-increase-2026?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral"
+    },
+    {
+      "impact": "mid",
+      "sentiment": "neutral",
+      "region": "美国",
+      "titleZh": "市场震荡：通胀、收益率与美联储",
       "titleEn": "Navigating the Market: Inflation, Yields, & the Fed",
-      "summary": "近期市場震盪且流動性不足，FOMC會議預期將帶來大幅波動，投資人密切關注通膨與利率走向。",
+      "summary": "近期市场流动性不足且走势反复，FOMC会议或引发新一轮剧烈波动。",
       "source": "Zacks",
       "time": "09-15 23:33",
       "url": "https://finance.yahoo.com/economy/policy/articles/navigating-market-inflation-yields-fed-233300605.html"
     },
     {
-      "impact": "high",
+      "impact": "low",
       "sentiment": "bear",
-      "region": "美國",
-      "titleZh": "道瓊期貨漲 債市關注聯準會升息",
-      "titleEn": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; How Will Bonds React To Fed Hike?",
-      "summary": "標普與那斯達克跌破關鍵支撐，油價與殖利率跳升，債市對聯準會升息反應成焦點。",
-      "source": "Investor's Business Daily",
-      "time": "09-16 00:58",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo"
+      "region": "美国",
+      "titleZh": "JEPQ退休预算十年后或难支撑7.5万支出",
+      "titleEn": "The $75,000 Retirement Budget That JEPQ May Struggle to Support in 10 Years",
+      "summary": "通胀调整后JEPQ月度分配不足以覆盖退休提款，投资者需警惕收益型基金设计缺陷。",
+      "source": "24/7 Wall St.",
+      "time": "09-16 19:30",
+      "url": "https://247wallst.com/investing/etf/2026/09/16/the-75000-retirement-budget-that-jepq-may-struggle-to-support-in-10-years/"
     },
     {
       "impact": "mid",
       "sentiment": "bear",
-      "region": "美國",
-      "titleZh": "ETF與股指期貨盤前走低待聯準會",
+      "region": "美国",
+      "titleZh": "零售与进口数据强劲，静待美联储决议",
+      "titleEn": "Retail Sales, Imports Come In Warm Ahead of FOMC Decision",
+      "summary": "8月零售销售与进口超预期，经济韧性强化加息预期，债市与股市承压。",
+      "source": "Zacks",
+      "time": "09-16 14:35",
+      "url": "https://finance.yahoo.com/economy/policy/articles/retail-sales-imports-come-warm-143500791.html"
+    },
+    {
+      "impact": "high",
+      "sentiment": "bear",
+      "region": "美国",
+      "titleZh": "美联储2023年来首次加息，无视特朗普施压",
+      "titleEn": "Fed raises interest rates for first time since 2023, defying Trump as inflation mounts",
+      "summary": "通胀高企迫使美联储重启加息，政治压力未能阻挡紧缩，或开启连续加息周期。",
+      "source": "CNBC",
+      "time": "Wed, 16 Sep 2026",
+      "url": "https://www.nbcnews.com/business/economy/fed-raises-rates-defying-trump-rcna598148"
+    },
+    {
+      "impact": "mid",
+      "sentiment": "neutral",
+      "region": "美国",
+      "titleZh": "鹰派美联储与沃什言论打压股市，道指期货反弹",
+      "titleEn": "Dow Jones Futures Rise After Hawkish Fed, Warsh Hit Stocks, Trump Fumes; AMD, Bloom Energy Eye Buy Points",
+      "summary": "标普500因加息及鹰派言论下挫，但AMD与Bloom Energy出现买点，市场分化。",
+      "source": "Investor's Business Daily",
+      "time": "09-17 00:45",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-fed-rate-hike-warsh-amd-bloom-energy-stocks-to-watch/?src=A00220&yptr=yahoo"
+    },
+    {
+      "impact": "mid",
+      "sentiment": "bull",
+      "region": "美国",
+      "titleZh": "ETF与股指期货盘前走高，等待美联储决议",
+      "titleEn": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Wednesday Ahead of Fed's Rate Announcement",
+      "summary": "SPY盘前上涨0.4%，市场在利率决议前谨慎乐观，短线波动或加剧。",
+      "source": "MT Newswires",
+      "time": "09-16 13:19",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131952643.html"
+    },
+    {
+      "impact": "mid",
+      "sentiment": "bear",
+      "region": "美国",
+      "titleZh": "ETF与股指期货盘前走低，交易员备战美联储",
       "titleEn": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as Traders Prepare for Fed Meeting",
-      "summary": "投資人等待聯準會決策，SPY盤前下跌0.2%，市場交投謹慎，觀望氣氛濃厚。",
+      "summary": "SPY盘前下跌0.2%，市场情绪谨慎，投资者等待美联储会议指引方向。",
       "source": "MT Newswires",
       "time": "09-15 13:23",
       "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-132308929.html"
-    },
-    {
-      "impact": "high",
-      "sentiment": "bear",
-      "region": "美國",
-      "titleZh": "美股收低 投資人預期聯準會升息",
-      "titleEn": "S&P 500, Nasdaq, Dow End Lower As Investors Price In Rate Hike Ahead Of Fed Meeting — AMZN, META, MU, TSLA, PLTR In Focus",
-      "summary": "交易員預期聯準會升息機率達92%，標普、那斯達克與道瓊收低，科技股承壓。",
-      "source": "Stocktwits",
-      "time": "09-15 22:04",
-      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-lower-as-investors-price-in-rate-hike-ahead-of-fed-meeting-amzn-meta-mu-tsla-pltr-in-focus/cZtn8vQRBcx"
-    },
-    {
-      "impact": "mid",
-      "sentiment": "neutral",
-      "region": "全球",
-      "titleZh": "原油看漲價差可對沖股債風險",
-      "titleEn": "This Bull Call Spread In Oil Provides A Hedge Against Stocks And Bonds",
-      "summary": "股債傳統對沖關係破裂，標普與長債正相關性達0.35，原油看漲價差策略可分散風險。",
-      "source": "Investor's Business Daily",
-      "time": "09-14 17:01",
-      "url": "https://www.investors.com/research/options/oil-etf-uso-options-spread-hedge-stocks-bonds-inflation-trade-strategy-markets/?src=A00220&yptr=yahoo"
-    },
-    {
-      "impact": "mid",
-      "sentiment": "neutral",
-      "region": "全球",
-      "titleZh": "黃金與殖利率：金屬投資人必知",
-      "titleEn": "Gold and Yields- What Every Metals Investor Needs to Know",
-      "summary": "財長貝森特挑戰債券義勇軍，雙方僵持不下，趨勢指向波動加劇，黃金避險需求可能上升。",
-      "source": "MoneyShow",
-      "time": "09-14 05:01",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-yields-every-metals-investor-050100543.html"
     }
   ],
   "commodities": [
     {
       "name": "黃金",
-      "price": 4321.2,
-      "change": -30.7,
-      "changePercent": -0.71,
+      "price": 4321.5,
+      "change": -11.3,
+      "changePercent": -0.26,
       "trend": "down"
     },
     {
       "name": "白銀",
-      "price": 64.14,
-      "change": 0.63,
-      "changePercent": 0.99,
+      "price": 63.78,
+      "change": 0.54,
+      "changePercent": 0.85,
       "trend": "up"
     },
     {
       "name": "原油(WTI)",
-      "price": 105.29,
-      "change": 3.9,
-      "changePercent": 3.85,
-      "trend": "strong_up"
+      "price": 101.15,
+      "change": -4.68,
+      "changePercent": -4.42,
+      "trend": "strong_down"
     },
     {
       "name": "布蘭特原油",
-      "price": 108.32,
-      "change": 2.64,
-      "changePercent": 2.5,
-      "trend": "strong_up"
+      "price": 104.45,
+      "change": -4.3,
+      "changePercent": -3.95,
+      "trend": "strong_down"
     },
     {
       "name": "銅",
       "price": 6.45,
-      "change": 0.12,
-      "changePercent": 1.84,
+      "change": 0.08,
+      "changePercent": 1.33,
       "trend": "up"
     },
     {
       "name": "天然氣",
-      "price": 2.93,
-      "change": 0.04,
-      "changePercent": 1.35,
-      "trend": "up"
+      "price": 2.89,
+      "change": -0.03,
+      "changePercent": -0.96,
+      "trend": "down"
     }
   ],
   "forex": [
     {
       "name": "美元指數",
-      "rate": 99.71,
-      "change": 0.25,
-      "changePercent": 0.25,
+      "rate": 100.294,
+      "change": 0.644,
+      "changePercent": 0.65,
       "trend": "up"
     },
     {
       "name": "EUR/USD",
-      "rate": 1.1549,
-      "change": -0.0045,
-      "changePercent": -0.39,
+      "rate": 1.1538,
+      "change": -0.0011,
+      "changePercent": -0.09,
       "trend": "down"
     },
     {
       "name": "USD/JPY",
-      "rate": 154.385,
-      "change": 0.961,
-      "changePercent": 0.63,
+      "rate": 155.266,
+      "change": 0.881,
+      "changePercent": 0.57,
       "trend": "up"
     },
     {
       "name": "GBP/USD",
-      "rate": 1.3501,
-      "change": -0.0025,
-      "changePercent": -0.18,
+      "rate": 1.3473,
+      "change": -0.0027,
+      "changePercent": -0.2,
       "trend": "down"
     },
     {
       "name": "USD/CNY",
-      "rate": 6.7082,
-      "change": 0.0002,
-      "changePercent": 0.0,
+      "rate": 6.7112,
+      "change": 0.003,
+      "changePercent": 0.04,
       "trend": "up"
     },
     {
       "name": "USD/TWD",
-      "rate": 31.7176,
-      "change": 0.0414,
-      "changePercent": 0.13,
+      "rate": 31.7734,
+      "change": 0.0558,
+      "changePercent": 0.18,
       "trend": "up"
     }
   ],
   "bonds": [
     {
       "name": "美國3月期",
-      "yield": 3.96,
-      "change": 0.025,
-      "changePercent": 0.64,
+      "yield": 3.97,
+      "change": 0.01,
+      "changePercent": 0.25,
       "trend": "up"
     },
     {
       "name": "美國5年期",
-      "yield": 4.826,
-      "change": 0.036,
-      "changePercent": 0.75,
+      "yield": 4.859,
+      "change": 0.033,
+      "changePercent": 0.68,
       "trend": "up"
     },
     {
       "name": "美國10年期",
-      "yield": 4.996,
-      "change": 0.035,
-      "changePercent": 0.71,
+      "yield": 5.006,
+      "change": 0.01,
+      "changePercent": 0.2,
       "trend": "up"
     },
     {
       "name": "美國30年期",
-      "yield": 5.364,
-      "change": 0.035,
-      "changePercent": 0.66,
-      "trend": "up"
+      "yield": 5.349,
+      "change": -0.015,
+      "changePercent": -0.28,
+      "trend": "down"
     }
   ],
   "sentiment": {
     "fearGreed": {
-      "current": 28.7,
-      "previous": 31.1,
-      "weekAgo": 39.1,
+      "current": 26.5,
+      "previous": 28.7,
+      "weekAgo": 38.2,
       "monthAgo": 64.3,
-      "yearAgo": 64.5,
+      "yearAgo": 64.4,
       "label": "fear"
     },
     "vix": {
-      "value": 17.2,
+      "value": 17.71,
       "label": "中波動"
     },
-    "tenYearYield": 4.996,
-    "dollarIndex": 99.71,
-    "yieldSpread": 0.17,
+    "tenYearYield": 5.006,
+    "dollarIndex": 100.29,
+    "yieldSpread": 0.147,
     "economicCycle": {
       "phase": "stagflation",
       "phaseZh": "滯脹期（Stagflation）",
@@ -770,11 +770,11 @@
     {
       "name": "美國",
       "etf": "SPY",
-      "daily": "+18.6億",
-      "weekly": "-521.1億",
-      "monthly": "-1161.5億",
-      "ytd": "+3994.6億",
-      "dailyDirection": "up",
+      "daily": "-143.3億",
+      "weekly": "-444.9億",
+      "monthly": "-1192.8億",
+      "ytd": "+3851.4億",
+      "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
       "ytdDirection": "up"
@@ -782,11 +782,11 @@
     {
       "name": "歐洲",
       "etf": "VGK",
-      "daily": "-2597萬",
-      "weekly": "-4.11億",
-      "monthly": "-5.60億",
-      "ytd": "+29.2億",
-      "dailyDirection": "down",
+      "daily": "+5278萬",
+      "weekly": "-2.66億",
+      "monthly": "-4.99億",
+      "ytd": "+29.8億",
+      "dailyDirection": "up",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
       "ytdDirection": "up"
@@ -794,11 +794,11 @@
     {
       "name": "日本",
       "etf": "EWJ",
-      "daily": "-416萬",
-      "weekly": "-7.28億",
-      "monthly": "-19.6億",
-      "ytd": "+107.7億",
-      "dailyDirection": "down",
+      "daily": "+1037萬",
+      "weekly": "-5.27億",
+      "monthly": "-18.5億",
+      "ytd": "+107.8億",
+      "dailyDirection": "up",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
       "ytdDirection": "up"
@@ -806,11 +806,11 @@
     {
       "name": "中國/港股",
       "etf": "FXI",
-      "daily": "+7974萬",
-      "weekly": "-18.2億",
-      "monthly": "-17.4億",
-      "ytd": "+63.4億",
-      "dailyDirection": "up",
+      "daily": "-4.02億",
+      "weekly": "-18.8億",
+      "monthly": "-21.3億",
+      "ytd": "+59.4億",
+      "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
       "ytdDirection": "up"
@@ -818,10 +818,10 @@
     {
       "name": "台灣",
       "etf": "EWT",
-      "daily": "-1.58億",
-      "weekly": "-2.97億",
-      "monthly": "-8.56億",
-      "ytd": "+114.5億",
+      "daily": "-2314萬",
+      "weekly": "-2.26億",
+      "monthly": "-8.22億",
+      "ytd": "+114.3億",
       "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
@@ -830,10 +830,10 @@
     {
       "name": "韓國",
       "etf": "EWY",
-      "daily": "-30.7億",
-      "weekly": "-89.4億",
-      "monthly": "-146.2億",
-      "ytd": "+380.4億",
+      "daily": "-4.58億",
+      "weekly": "-76.3億",
+      "monthly": "-139.7億",
+      "ytd": "+375.8億",
       "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
@@ -842,11 +842,11 @@
     {
       "name": "印度",
       "etf": "INDA",
-      "daily": "+6681萬",
-      "weekly": "-3.64億",
-      "monthly": "-12.2億",
-      "ytd": "-14.8億",
-      "dailyDirection": "up",
+      "daily": "-2.77億",
+      "weekly": "-2.85億",
+      "monthly": "-14.5億",
+      "ytd": "-17.5億",
+      "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
       "ytdDirection": "down"
@@ -854,10 +854,10 @@
     {
       "name": "新興市場",
       "etf": "VWO",
-      "daily": "-1694萬",
-      "weekly": "-8.73億",
-      "monthly": "-10.2億",
-      "ytd": "+95.6億",
+      "daily": "-2479萬",
+      "weekly": "-5.22億",
+      "monthly": "-10.1億",
+      "ytd": "+95.4億",
       "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
@@ -866,10 +866,10 @@
     {
       "name": "印尼",
       "etf": "EIDO",
-      "daily": "-353萬",
-      "weekly": "-5708萬",
-      "monthly": "-1.73億",
-      "ytd": "-6568萬",
+      "daily": "-218萬",
+      "weekly": "-4850萬",
+      "monthly": "-1.68億",
+      "ytd": "-6786萬",
       "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
@@ -878,10 +878,10 @@
     {
       "name": "越南",
       "etf": "VNM",
-      "daily": "-1430萬",
-      "weekly": "-5196萬",
-      "monthly": "-6518萬",
-      "ytd": "-2.13億",
+      "daily": "-971萬",
+      "weekly": "-4619萬",
+      "monthly": "-6989萬",
+      "ytd": "-2.23億",
       "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
@@ -890,11 +890,11 @@
     {
       "name": "泰國",
       "etf": "THD",
-      "daily": "+2636萬",
-      "weekly": "+2181萬",
-      "monthly": "+1982萬",
-      "ytd": "-819萬",
-      "dailyDirection": "up",
+      "daily": "-111萬",
+      "weekly": "+1908萬",
+      "monthly": "+2226萬",
+      "ytd": "-930萬",
+      "dailyDirection": "down",
       "weeklyDirection": "up",
       "monthlyDirection": "up",
       "ytdDirection": "down"
@@ -902,10 +902,10 @@
     {
       "name": "馬來西亞",
       "etf": "EWM",
-      "daily": "-33.3萬",
-      "weekly": "-337萬",
-      "monthly": "-841萬",
-      "ytd": "+4908萬",
+      "daily": "-138萬",
+      "weekly": "-357萬",
+      "monthly": "-978萬",
+      "ytd": "+4771萬",
       "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
@@ -914,10 +914,10 @@
     {
       "name": "菲律賓",
       "etf": "EPHE",
-      "daily": "-35.4萬",
-      "weekly": "-354萬",
-      "monthly": "-4432萬",
-      "ytd": "-870萬",
+      "daily": "-80.5萬",
+      "weekly": "-391萬",
+      "monthly": "-4278萬",
+      "ytd": "-951萬",
       "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
@@ -926,11 +926,11 @@
     {
       "name": "澳洲",
       "etf": "EWA",
-      "daily": "-1053萬",
-      "weekly": "-2.27億",
-      "monthly": "-1.57億",
-      "ytd": "+11.6億",
-      "dailyDirection": "down",
+      "daily": "+6305萬",
+      "weekly": "-1.00億",
+      "monthly": "-8115萬",
+      "ytd": "+12.2億",
+      "dailyDirection": "up",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
       "ytdDirection": "up"
@@ -940,11 +940,11 @@
     {
       "name": "資訊科技",
       "etf": "XLK",
-      "daily": "+3.93億",
-      "weekly": "-5.13億",
-      "monthly": "-8492萬",
-      "ytd": "+233.8億",
-      "dailyDirection": "up",
+      "daily": "-7.37億",
+      "weekly": "-9.74億",
+      "monthly": "-6.31億",
+      "ytd": "+226.4億",
+      "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
       "ytdDirection": "up"
@@ -952,10 +952,10 @@
     {
       "name": "公用事業",
       "etf": "XLU",
-      "daily": "-7.86億",
-      "weekly": "-24.3億",
-      "monthly": "-2182萬",
-      "ytd": "-28.9億",
+      "daily": "-9.09億",
+      "weekly": "-35.3億",
+      "monthly": "-13.4億",
+      "ytd": "-38.0億",
       "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
@@ -964,11 +964,11 @@
     {
       "name": "金融",
       "etf": "XLF",
-      "daily": "-7.25億",
-      "weekly": "-28.9億",
-      "monthly": "-86.6億",
-      "ytd": "-130.2億",
-      "dailyDirection": "down",
+      "daily": "+8.09億",
+      "weekly": "-2.06億",
+      "monthly": "-76.4億",
+      "ytd": "-122.1億",
+      "dailyDirection": "up",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
       "ytdDirection": "down"
@@ -976,11 +976,11 @@
     {
       "name": "工業",
       "etf": "XLI",
-      "daily": "+9.59億",
-      "weekly": "-14.4億",
-      "monthly": "-65.0億",
-      "ytd": "+56.9億",
-      "dailyDirection": "up",
+      "daily": "-10.1億",
+      "weekly": "-15.8億",
+      "monthly": "-77.9億",
+      "ytd": "+46.9億",
+      "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
       "ytdDirection": "up"
@@ -988,11 +988,11 @@
     {
       "name": "能源",
       "etf": "XLE",
-      "daily": "-19.1億",
-      "weekly": "-36.6億",
-      "monthly": "-8.84億",
-      "ytd": "+258.7億",
-      "dailyDirection": "down",
+      "daily": "+16.2億",
+      "weekly": "-20.2億",
+      "monthly": "-1974萬",
+      "ytd": "+274.9億",
+      "dailyDirection": "up",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
       "ytdDirection": "up"
@@ -1000,11 +1000,11 @@
     {
       "name": "非必需消費",
       "etf": "XLY",
-      "daily": "+1.58億",
-      "weekly": "-5.96億",
-      "monthly": "-25.3億",
-      "ytd": "-8.93億",
-      "dailyDirection": "up",
+      "daily": "-9.72億",
+      "weekly": "-11.6億",
+      "monthly": "-31.4億",
+      "ytd": "-18.6億",
+      "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
       "ytdDirection": "down"
@@ -1012,23 +1012,23 @@
     {
       "name": "通訊服務",
       "etf": "XLC",
-      "daily": "+3.88億",
-      "weekly": "+4.60億",
-      "monthly": "-11.7億",
-      "ytd": "-28.6億",
-      "dailyDirection": "up",
-      "weeklyDirection": "up",
+      "daily": "-3.15億",
+      "weekly": "-5828萬",
+      "monthly": "-13.9億",
+      "ytd": "-31.7億",
+      "dailyDirection": "down",
+      "weeklyDirection": "down",
       "monthlyDirection": "down",
       "ytdDirection": "down"
     },
     {
       "name": "房地產",
       "etf": "XLRE",
-      "daily": "-1.34億",
-      "weekly": "-5.01億",
-      "monthly": "-11.3億",
-      "ytd": "-3.87億",
-      "dailyDirection": "down",
+      "daily": "+1.22億",
+      "weekly": "-3.36億",
+      "monthly": "-11.4億",
+      "ytd": "-2.65億",
+      "dailyDirection": "up",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
       "ytdDirection": "down"
@@ -1036,11 +1036,11 @@
     {
       "name": "原材料",
       "etf": "XLB",
-      "daily": "-2.08億",
-      "weekly": "-18.4億",
-      "monthly": "-33.7億",
-      "ytd": "+44.9億",
-      "dailyDirection": "down",
+      "daily": "+4.59億",
+      "weekly": "-7.63億",
+      "monthly": "-30.8億",
+      "ytd": "+49.5億",
+      "dailyDirection": "up",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
       "ytdDirection": "up"
@@ -1048,11 +1048,11 @@
     {
       "name": "醫療保健",
       "etf": "XLV",
-      "daily": "-2.72億",
-      "weekly": "-45.5億",
-      "monthly": "-40.4億",
-      "ytd": "-38.3億",
-      "dailyDirection": "down",
+      "daily": "+5.80億",
+      "weekly": "-25.1億",
+      "monthly": "-37.9億",
+      "ytd": "-32.5億",
+      "dailyDirection": "up",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
       "ytdDirection": "down"
@@ -1060,10 +1060,10 @@
     {
       "name": "必需消費",
       "etf": "XLP",
-      "daily": "-4.16億",
-      "weekly": "-20.8億",
-      "monthly": "-45.1億",
-      "ytd": "+84.5億",
+      "daily": "-4.34億",
+      "weekly": "-20.1億",
+      "monthly": "-50.2億",
+      "ytd": "+80.2億",
       "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
@@ -1074,10 +1074,10 @@
     {
       "name": "1-3年國債",
       "etf": "SHY",
-      "daily": "-1.25億",
-      "weekly": "-11.9億",
-      "monthly": "-25.8億",
-      "ytd": "-64.5億",
+      "daily": "-5.22億",
+      "weekly": "-15.0億",
+      "monthly": "-29.4億",
+      "ytd": "-69.7億",
       "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
@@ -1086,10 +1086,10 @@
     {
       "name": "3-7年國債",
       "etf": "IEI",
-      "daily": "-1.05億",
-      "weekly": "-5.43億",
-      "monthly": "-7.72億",
-      "ytd": "-20.0億",
+      "daily": "-1.83億",
+      "weekly": "-6.73億",
+      "monthly": "-8.80億",
+      "ytd": "-21.8億",
       "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
@@ -1098,10 +1098,10 @@
     {
       "name": "7-10年國債",
       "etf": "IEF",
-      "daily": "-2.26億",
-      "weekly": "-16.7億",
-      "monthly": "-25.4億",
-      "ytd": "-108.9億",
+      "daily": "-1.51億",
+      "weekly": "-18.0億",
+      "monthly": "-23.7億",
+      "ytd": "-110.4億",
       "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
@@ -1110,9 +1110,9 @@
     {
       "name": "10-20年國債",
       "etf": "TLH",
-      "daily": "-503萬",
-      "weekly": "-2.49億",
-      "monthly": "-2.05億",
+      "daily": "-3777",
+      "weekly": "-2.33億",
+      "monthly": "-1.58億",
       "ytd": "-1.35億",
       "dailyDirection": "down",
       "weeklyDirection": "down",
@@ -1122,10 +1122,10 @@
     {
       "name": "20年+國債",
       "etf": "TLT",
-      "daily": "+1.21億",
-      "weekly": "-60.7億",
-      "monthly": "-51.8億",
-      "ytd": "-40.5億",
+      "daily": "+4.99億",
+      "weekly": "-56.0億",
+      "monthly": "-42.0億",
+      "ytd": "-35.5億",
       "dailyDirection": "up",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
@@ -1134,11 +1134,11 @@
     {
       "name": "投資級債",
       "etf": "LQD",
-      "daily": "-5.37億",
-      "weekly": "-70.0億",
-      "monthly": "-95.2億",
-      "ytd": "-312.4億",
-      "dailyDirection": "down",
+      "daily": "+11.8億",
+      "weekly": "-53.6億",
+      "monthly": "-67.1億",
+      "ytd": "-300.6億",
+      "dailyDirection": "up",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
       "ytdDirection": "down"
@@ -1146,11 +1146,11 @@
     {
       "name": "非投資等債",
       "etf": "HYG",
-      "daily": "+1.50億",
-      "weekly": "-107.6億",
-      "monthly": "-123.3億",
-      "ytd": "+112.8億",
-      "dailyDirection": "up",
+      "daily": "-33.1億",
+      "weekly": "-125.2億",
+      "monthly": "-148.5億",
+      "ytd": "+79.7億",
+      "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
       "ytdDirection": "up"
@@ -1158,11 +1158,11 @@
     {
       "name": "新興債",
       "etf": "EMB",
-      "daily": "+1.19億",
-      "weekly": "-15.5億",
-      "monthly": "-30.4億",
-      "ytd": "-21.2億",
-      "dailyDirection": "up",
+      "daily": "-9313萬",
+      "weekly": "-14.8億",
+      "monthly": "-28.9億",
+      "ytd": "-22.1億",
+      "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
       "ytdDirection": "down"
@@ -1170,11 +1170,11 @@
     {
       "name": "新興美元債",
       "etf": "VWOB",
-      "daily": "+1280萬",
-      "weekly": "-7893萬",
-      "monthly": "-1.35億",
-      "ytd": "-2.23億",
-      "dailyDirection": "up",
+      "daily": "-1858萬",
+      "weekly": "-8605萬",
+      "monthly": "-1.48億",
+      "ytd": "-2.41億",
+      "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
       "ytdDirection": "down"
@@ -1182,10 +1182,10 @@
     {
       "name": "新興本地債",
       "etf": "EMLC",
-      "daily": "-783萬",
-      "weekly": "-1.00億",
-      "monthly": "-3.01億",
-      "ytd": "-2.90億",
+      "daily": "-3918萬",
+      "weekly": "-1.03億",
+      "monthly": "-3.25億",
+      "ytd": "-3.29億",
       "dailyDirection": "down",
       "weeklyDirection": "down",
       "monthlyDirection": "down",
@@ -1194,11 +1194,25 @@
   ],
   "hotStocksInflow": [
     {
-      "name": "Alphabet",
-      "symbol": "GOOGL",
-      "price": 349.39,
-      "changePercent": 3.22,
-      "volumeRatio": 1.57
+      "name": "JPMorgan",
+      "symbol": "JPM",
+      "price": 352.49,
+      "changePercent": 0.67,
+      "volumeRatio": 2.42
+    },
+    {
+      "name": "Lennar",
+      "symbol": "LEN",
+      "price": 80.07,
+      "changePercent": 0.1,
+      "volumeRatio": 1.55
+    },
+    {
+      "name": "Bank of America",
+      "symbol": "BAC",
+      "price": 59.52,
+      "changePercent": 0.08,
+      "volumeRatio": 1.58
     }
   ],
   "hotStocksOutflow": [],
@@ -1206,58 +1220,58 @@
     {
       "name": "Bitcoin",
       "symbol": "BTC",
-      "price": 78163.38,
-      "change": 1325.23,
-      "changePercent": 1.72,
-      "trend": "up"
+      "price": 75612.51,
+      "change": -2550.88,
+      "changePercent": -3.26,
+      "trend": "strong_down"
     },
     {
       "name": "Ethereum",
       "symbol": "ETH",
-      "price": 2514.41,
-      "change": 37.39,
-      "changePercent": 1.51,
-      "trend": "up"
+      "price": 2399.09,
+      "change": -115.32,
+      "changePercent": -4.59,
+      "trend": "strong_down"
     },
     {
       "name": "BNB",
       "symbol": "BNB",
-      "price": 720.24,
-      "change": 3.91,
-      "changePercent": 0.55,
-      "trend": "up"
+      "price": 712.16,
+      "change": -8.08,
+      "changePercent": -1.12,
+      "trend": "down"
     },
     {
       "name": "Solana",
       "symbol": "SOL",
-      "price": 102.5,
-      "change": 3.25,
-      "changePercent": 3.27,
-      "trend": "strong_up"
+      "price": 96.89,
+      "change": -5.61,
+      "changePercent": -5.47,
+      "trend": "strong_down"
     },
     {
       "name": "XRP",
       "symbol": "XRP",
-      "price": 1.42,
-      "change": 0.08,
-      "changePercent": 6.0,
-      "trend": "strong_up"
+      "price": 1.28,
+      "change": -0.14,
+      "changePercent": -9.59,
+      "trend": "strong_down"
     },
     {
       "name": "Cardano",
       "symbol": "ADA",
-      "price": 0.21,
-      "change": 0.0,
-      "changePercent": 2.44,
-      "trend": "strong_up"
+      "price": 0.2,
+      "change": -0.01,
+      "changePercent": -6.31,
+      "trend": "strong_down"
     },
     {
       "name": "Dogecoin",
       "symbol": "DOGE",
       "price": 0.08,
-      "change": 0.0,
-      "changePercent": 1.47,
-      "trend": "up"
+      "change": -0.0,
+      "changePercent": -4.25,
+      "trend": "strong_down"
     }
   ]
 }
