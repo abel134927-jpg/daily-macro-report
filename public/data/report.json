@@ -1,14 +1,13 @@
 {
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-02 09:00",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03 09:01",
   "heroIndicators": [
     {
       "name": "S&P 500",
-      "value": 7580.07,
-      "change": -140.32,
-      "changePercent": -1.82,
+      "value": 7541.4,
+      "change": -38.67,
+      "changePercent": -0.51,
       "sparklineData": [
-        7764.7,
         7764.64,
         7706.03,
         7704.13,
@@ -37,16 +36,16 @@
         7722.6,
         7743.98,
         7720.39,
-        7580.07
+        7580.07,
+        7541.4
       ]
     },
     {
       "name": "納斯達克",
-      "value": 25437.0,
-      "change": -747.72,
-      "changePercent": -2.86,
+      "value": 25164.36,
+      "change": -272.64,
+      "changePercent": -1.07,
       "sparklineData": [
-        27122.09,
         27244.28,
         26936.04,
         26939.37,
@@ -75,16 +74,16 @@
         26477.81,
         26549.85,
         26184.72,
-        25437.0
+        25437.0,
+        25164.36
       ]
     },
     {
       "name": "道瓊斯",
-      "value": 51770.31,
-      "change": -572.25,
-      "changePercent": -1.09,
+      "value": 51983.98,
+      "change": 213.67,
+      "changePercent": 0.41,
       "sparklineData": [
-        52048.83,
         51863.69,
         51511.59,
         51349.98,
@@ -113,7 +112,8 @@
         52377.57,
         52475.1,
         52342.56,
-        51770.31
+        51770.31,
+        51983.98
       ]
     },
     {
@@ -156,9 +156,9 @@
     },
     {
       "name": "黃金",
-      "value": 3911.6,
-      "change": 12.7,
-      "changePercent": 0.33,
+      "value": 3964.9,
+      "change": 66.0,
+      "changePercent": 1.69,
       "sparklineData": [
         4376.4,
         4318.4,
@@ -189,14 +189,14 @@
         4051.6,
         4031.4,
         3898.9,
-        3911.6
+        3964.9
       ]
     },
     {
       "name": "WTI 原油",
-      "value": 102.3,
-      "change": -1.82,
-      "changePercent": -1.75,
+      "value": 96.43,
+      "change": -7.69,
+      "changePercent": -7.39,
       "sparklineData": [
         94.59,
         92.16,
@@ -227,14 +227,14 @@
         102.78,
         102.0,
         104.12,
-        102.3
+        96.43
       ]
     },
     {
       "name": "美元指數",
-      "value": 101.96,
-      "change": 0.08,
-      "changePercent": 0.08,
+      "value": 101.79,
+      "change": -0.09,
+      "changePercent": -0.09,
       "sparklineData": [
         100.6,
         101.1,
@@ -265,16 +265,15 @@
         102.19,
         102.04,
         101.88,
-        101.96
+        101.79
       ]
     },
     {
       "name": "Bitcoin",
-      "value": 77434.75,
-      "change": 236.54,
-      "changePercent": 0.31,
+      "value": 78248.45,
+      "change": 813.7,
+      "changePercent": 1.05,
       "sparklineData": [
-        84497.21,
         84763.58,
         86480.3,
         85786.59,
@@ -303,7 +302,8 @@
         81267.59,
         77775.11,
         77198.21,
-        77434.75
+        77434.75,
+        78248.45
       ]
     }
   ],
@@ -313,43 +313,43 @@
       "indices": [
         {
           "name": "S&P 500",
-          "close": 7580.07,
-          "change": -140.32,
-          "changePercent": -1.82,
+          "close": 7541.4,
+          "change": -38.67,
+          "changePercent": -0.51,
           "trend": "down",
-          "ytd": 10.52
+          "ytd": 9.96
         },
         {
           "name": "納斯達克",
-          "close": 25437.0,
-          "change": -747.72,
-          "changePercent": -2.86,
-          "trend": "strong_down",
-          "ytd": 9.47
+          "close": 25164.36,
+          "change": -272.64,
+          "changePercent": -1.07,
+          "trend": "down",
+          "ytd": 8.3
         },
         {
           "name": "道瓊斯",
-          "close": 51770.31,
-          "change": -572.25,
-          "changePercent": -1.09,
-          "trend": "down",
-          "ytd": 7.0
+          "close": 51983.98,
+          "change": 213.67,
+          "changePercent": 0.41,
+          "trend": "up",
+          "ytd": 7.44
         },
         {
           "name": "羅素2000",
-          "close": 2811.84,
-          "change": -47.38,
-          "changePercent": -1.66,
+          "close": 2805.88,
+          "change": -5.96,
+          "changePercent": -0.21,
           "trend": "down",
-          "ytd": 12.11
+          "ytd": 11.87
         },
         {
           "name": "費城半導體",
-          "close": 10688.8,
-          "change": -829.4,
-          "changePercent": -7.2,
+          "close": 10328.33,
+          "change": -360.47,
+          "changePercent": -3.37,
           "trend": "strong_down",
-          "ytd": 45.08
+          "ytd": 40.19
         }
       ]
     },
@@ -515,254 +515,254 @@
   ],
   "news": [
     {
-      "impact": "high",
-      "sentiment": "neutral",
-      "region": "美国",
-      "titleZh": "联准会期中选举前维持利率不变",
-      "titleEn": "Federal Reserve keeps interest rates unchanged in final vote before midterms",
-      "summary": "通膨升温下联准会仍按兵不动，短期利率预期稳定，但政策不确定性延至选后。",
-      "source": "CNBC",
-      "time": "Wed, 28 Oct 2026",
-      "url": "https://www.nbcnews.com/now/video/federal-reserve-keeps-interest-rates-unchanged-in-final-vote-before-midterms-272416837771"
-    },
-    {
       "impact": "mid",
       "sentiment": "bear",
-      "region": "美国",
-      "titleZh": "纽交所老将：华尔街面临空前多重压力",
-      "titleEn": "Wall Street Has Never Faced This Many Market Forces at Once, NYSE Veteran Says",
-      "summary": "油价、战争、联准会与AI支出同时冲击市场，波动加剧，投资人宜提高防御配置。",
-      "source": "Yahoo Finance",
-      "time": "Sun, 01 Nov 2026",
-      "url": "https://beincrypto.com/wall-street-market-forces-nyse-veteran/?.tsrc=rss"
+      "region": "美國",
+      "titleZh": "天然氣價格計算器：油價上漲讓你多花了多少錢？",
+      "titleEn": "Gas cost calculator: How much have higher gas prices cost you?",
+      "summary": "伊朗戰爭以來美國民眾汽油支出增加約800億美元，每月加油兩次者多付20至300美元，消費支出承壓。",
+      "source": "CNBC",
+      "time": "Sat, 20 Jun 2026",
+      "url": "https://www.nbcnews.com/data-graphics/gas-price-calculator-iran-war-2026-rcna350151"
     },
     {
       "impact": "high",
-      "sentiment": "bear",
+      "sentiment": "bull",
       "region": "全球",
-      "titleZh": "币安称用户资金安全惟遭巨额骇客攻击",
-      "titleEn": "Binance says user funds are safe after thieves make off with billions in record hack",
-      "summary": "加密交易所遭创纪录窃盗，市场信心受挫，短線资金恐转向避险资产。",
+      "titleZh": "油價創7月以來最大跌幅，市場寄望伊朗談判",
+      "titleEn": "Oil prices slide in biggest drop since July on hope for more Iran talks",
+      "summary": "特朗普暗示中期選舉後不恢復對伊朗打擊，地緣風險溢價回落，油價大跌利好通脹與消費板塊。",
       "source": "CNBC",
-      "time": "Fri, 30 Oct 2026",
-      "url": "https://www.nbcnews.com/business/markets/binance-pledges-cover-billions-stolen-assets-hack-rcna606517"
-    },
-    {
-      "impact": "high",
-      "sentiment": "bear",
-      "region": "美国",
-      "titleZh": "市场崩跌蒸发逾一兆美元市值",
-      "titleEn": "Market drop wipes out more than a trillion dollars in value",
-      "summary": "AI支出回收疑虑叠加财报利空与加密骇客事件，风险资产卖压沉重。",
-      "source": "CNBC",
-      "time": "Fri, 30 Oct 2026",
-      "url": "https://www.nbcnews.com/nightly-news/video/market-drop-wipes-out-more-than-a-trillion-dollars-in-value-272576581835"
-    },
-    {
-      "impact": "mid",
-      "sentiment": "neutral",
-      "region": "美国",
-      "titleZh": "道琼期指反弹，期中选举牵动股市",
-      "titleEn": "Dow Jones Futures Rise After Market Sell-Off; How Midterm Elections May Swing Stocks",
-      "summary": "科技股领跌后市场转趋防御，选举结果与就业数据将主导短线走势。",
-      "source": "Yahoo Finance",
       "time": "Mon, 02 Nov 2026",
-      "url": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-rise-after.html?.tsrc=rss"
-    },
-    {
-      "impact": "high",
-      "sentiment": "bear",
-      "region": "美国",
-      "titleZh": "AI市值蒸发5兆后期货开盘关键周",
-      "titleEn": "Stock futures open a monster week after a $5 trillion AI wipeout",
-      "summary": "苹果财报、期中选举与百元油价齐聚，市场波动风险显著升高。",
-      "source": "Yahoo Finance",
-      "time": "Sun, 01 Nov 2026",
-      "url": "https://finance.yahoo.com/markets/article/stock-futures-open-a-monster-week-after-a-5-trillion-ai-wipeout-232500194.html?.tsrc=rss"
+      "url": "https://www.nbcnews.com/business/energy/oil-prices-slide-trump-hope-iran-talks-rcna607107"
     },
     {
       "impact": "mid",
       "sentiment": "bear",
       "region": "全球",
-      "titleZh": "恐慌升温与币安骇客案拖累比特币",
+      "titleZh": "比特幣十月重挫後續跌，幣安遭駭壓制人氣",
+      "titleEn": "Bitcoin slips after steep October losses, as Binance hack keeps lid on sentiment",
+      "summary": "幣安駭客事件疊加十月大幅虧損，市場情緒謹慎，加密貨幣短線承壓，資金或流向避險資產。",
+      "source": "Investing.com",
+      "time": "2026-11-02 23:11",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-78k-after-october-losses-binance-resumes-withdrawals-4989972"
+    },
+    {
+      "impact": "mid",
+      "sentiment": "bear",
+      "region": "全球",
+      "titleZh": "比特幣測試下降通道關鍵支撐：即時價位",
+      "titleEn": "Bitcoin tests key support in descending channel: Live levels",
+      "summary": "比特幣處於下降通道並測試關鍵支撐，若失守恐引發進一步拋售，投資者關注技術面破位風險。",
+      "source": "Investing.com",
+      "time": "2026-11-02 07:12",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-key-support-in-descending-channel-live-levels-93CH-4990035"
+    },
+    {
+      "impact": "mid",
+      "sentiment": "bear",
+      "region": "全球",
+      "titleZh": "恐慌升溫與幣安遭駭，比特幣下行風險加大",
       "titleEn": "Bitcoin faces further downside risks as fear surges, Binance hack rattles markets",
-      "summary": "市场恐惧情绪升高，比特币下行风险加大，加密板块承压。",
+      "summary": "市場恐慌情緒升溫，幣安駭客事件動搖信心，比特幣面臨進一步下行風險，加密板塊波動加劇。",
       "source": "Investing.com",
       "time": "2026-11-01 19:04",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-faces-further-downside-risks-as-fear-surges-binance-hack-rattles-markets-4989389"
     },
     {
-      "impact": "mid",
-      "sentiment": "bear",
-      "region": "全球",
-      "titleZh": "比特币跌破三角收敛测试38.2%回档",
-      "titleEn": "Bitcoin tests 38.2% Fib after triangle breakdown: Live levels",
-      "summary": "技术面转弱，比特币测试关键斐波那契支撑，失守恐加剧卖压。",
-      "source": "Investing.com",
-      "time": "2026-11-01 07:01",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508"
-    },
-    {
-      "impact": "mid",
+      "impact": "low",
       "sentiment": "bull",
-      "region": "全球",
-      "titleZh": "币安称已覆盖九成63亿美元骇损",
-      "titleEn": "Bitcoin rises as Binance says it has covered 90% of $6.3 billion hack",
-      "summary": "币安止血消息提振信心，比特币反弹，但加密市场风险偏好仍脆弱。",
-      "source": "Investing.com",
-      "time": "2026-10-31 20:56",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115"
+      "region": "美國",
+      "titleZh": "年底前最值得搶的旅遊優惠",
+      "titleEn": "Best Travel Deals to Snag Before the End of the Year",
+      "summary": "旅遊專家分享年底前最佳優惠與目的地，利好旅遊休閒及航空酒店板塊的季節性消費需求。",
+      "source": "CNBC",
+      "time": "Mon, 02 Nov 2026",
+      "url": "https://www.today.com/video/best-travel-deals-to-snag-before-the-end-of-the-year-272691781697"
     },
     {
-      "impact": "high",
-      "sentiment": "bear",
-      "region": "美国",
-      "titleZh": "科技股重挫，骇客窃逾60亿美元加密币",
-      "titleEn": "Tech Stocks Plummet; Hackers Steal Over $6B in Cryptocurrency",
-      "summary": "科技巨头财报拖累美股，叠加加密重大窃案，风险情绪明显恶化。",
+      "impact": "low",
+      "sentiment": "neutral",
+      "region": "美國",
+      "titleZh": "選舉日與退伍軍人節免費福利盤點",
+      "titleEn": "Celebrate Election Day and Veterans Day With These Freebies",
+      "summary": "十一月選舉日及退伍軍人節多家商家推出免費贈品與公園免費入場，提振短期消費與零售客流。",
       "source": "CNBC",
-      "time": "Fri, 30 Oct 2026",
-      "url": "https://www.today.com/video/tech-stocks-plummet-hackers-steal-over-6b-in-cryptocurrency-272526405851"
+      "time": "Mon, 02 Nov 2026",
+      "url": "https://www.today.com/video/celebrate-election-day-and-veterans-day-with-these-freebies-272689733745"
+    },
+    {
+      "impact": "mid",
+      "sentiment": "neutral",
+      "region": "美國",
+      "titleZh": "五張圖看中期選舉前的美國經濟狀況",
+      "titleEn": "The state of the U.S. economy ahead of the midterms in five charts",
+      "summary": "中期選舉前五張圖審視美國經濟表現，選民對經濟感受將影響政策預期與市場情緒走向。",
+      "source": "CNBC",
+      "time": "Mon, 02 Nov 2026",
+      "url": "https://www.nbcnews.com/business/economy/5-charts-2026-midterm-elections-rcna606589"
+    },
+    {
+      "impact": "low",
+      "sentiment": "bear",
+      "region": "美國",
+      "titleZh": "M-tron Industries股價跌逾4.59%，跑輸大盤",
+      "titleEn": "M-tron Industries, Inc. (MPTI) Declines More Than Market: Some Information for Investors",
+      "summary": "MPTI收報63.15美元跌4.59%，表現弱於大盤，投資者需關注其基本面與後續波動風險。",
+      "source": "Yahoo Finance",
+      "time": "Mon, 02 Nov 2026",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/m-tron-industries-inc-mpti-221502355.html?.tsrc=rss"
+    },
+    {
+      "impact": "low",
+      "sentiment": "bear",
+      "region": "美國",
+      "titleZh": "Chili's顧客誤飲清潔劑調製瑪格麗特被灼傷",
+      "titleEn": "Chili’s customers suffer burns after sipping margaritas mistakenly made with cleaning agent",
+      "summary": "Chili's飲品誤用清潔劑致顧客與員工灼傷，餐廳已復業未罰款，或引發品牌與食安監管關注。",
+      "source": "CNBC",
+      "time": "Mon, 02 Nov 2026",
+      "url": "https://www.nbcnews.com/news/us-news/chilis-customers-north-carolina-suffer-burns-margaritas-mistakenly-mad-rcna607037"
     }
   ],
   "commodities": [
     {
       "name": "黃金",
-      "price": 3911.6,
-      "change": 12.7,
-      "changePercent": 0.33,
+      "price": 3964.9,
+      "change": 66.0,
+      "changePercent": 1.69,
       "trend": "up"
     },
     {
       "name": "白銀",
-      "price": 49.96,
-      "change": 0.86,
-      "changePercent": 1.75,
-      "trend": "up"
+      "price": 50.69,
+      "change": 1.59,
+      "changePercent": 3.24,
+      "trend": "strong_up"
     },
     {
       "name": "原油(WTI)",
-      "price": 102.3,
-      "change": -1.82,
-      "changePercent": -1.75,
-      "trend": "down"
+      "price": 96.43,
+      "change": -7.69,
+      "changePercent": -7.39,
+      "trend": "strong_down"
     },
     {
       "name": "布蘭特原油",
-      "price": 111.86,
-      "change": -5.78,
-      "changePercent": -4.91,
+      "price": 104.53,
+      "change": -13.11,
+      "changePercent": -11.14,
       "trend": "strong_down"
     },
     {
       "name": "銅",
-      "price": 6.51,
-      "change": 0.05,
-      "changePercent": 0.81,
+      "price": 6.54,
+      "change": 0.08,
+      "changePercent": 1.27,
       "trend": "up"
     },
     {
       "name": "天然氣",
-      "price": 2.92,
-      "change": 0.03,
-      "changePercent": 0.93,
-      "trend": "up"
+      "price": 2.87,
+      "change": -0.03,
+      "changePercent": -0.9,
+      "trend": "down"
     }
   ],
   "forex": [
     {
       "name": "美元指數",
-      "rate": 101.958,
-      "change": 0.078,
-      "changePercent": 0.08,
-      "trend": "up"
+      "rate": 101.791,
+      "change": -0.089,
+      "changePercent": -0.09,
+      "trend": "down"
     },
     {
       "name": "EUR/USD",
-      "rate": 1.1183,
-      "change": 0.0027,
-      "changePercent": 0.24,
-      "trend": "up"
+      "rate": 1.1157,
+      "change": -0.0026,
+      "changePercent": -0.23,
+      "trend": "down"
     },
     {
       "name": "USD/JPY",
-      "rate": 157.804,
-      "change": -0.029,
-      "changePercent": -0.02,
+      "rate": 157.677,
+      "change": -0.127,
+      "changePercent": -0.08,
       "trend": "down"
     },
     {
       "name": "GBP/USD",
-      "rate": 1.3379,
-      "change": 0.0051,
-      "changePercent": 0.38,
+      "rate": 1.3386,
+      "change": 0.0007,
+      "changePercent": 0.05,
       "trend": "up"
     },
     {
       "name": "USD/CNY",
       "rate": 6.661,
-      "change": -0.005,
-      "changePercent": -0.08,
-      "trend": "down"
+      "change": 0.0,
+      "changePercent": 0.0,
+      "trend": "neutral"
     },
     {
       "name": "USD/TWD",
-      "rate": 32.5669,
-      "change": 0.1841,
-      "changePercent": 0.57,
+      "rate": 32.6064,
+      "change": 0.0395,
+      "changePercent": 0.12,
       "trend": "up"
     }
   ],
   "bonds": [
     {
       "name": "美國3月期",
-      "yield": 3.973,
-      "change": -0.025,
-      "changePercent": -0.63,
-      "trend": "down"
+      "yield": 3.982,
+      "change": 0.009,
+      "changePercent": 0.23,
+      "trend": "up"
     },
     {
       "name": "美國5年期",
-      "yield": 4.721,
-      "change": -0.08,
-      "changePercent": -1.67,
+      "yield": 4.693,
+      "change": -0.028,
+      "changePercent": -0.59,
       "trend": "down"
     },
     {
       "name": "美國10年期",
-      "yield": 4.929,
-      "change": -0.06,
-      "changePercent": -1.2,
+      "yield": 4.894,
+      "change": -0.035,
+      "changePercent": -0.71,
       "trend": "down"
     },
     {
       "name": "美國30年期",
-      "yield": 5.309,
-      "change": -0.02,
-      "changePercent": -0.38,
+      "yield": 5.269,
+      "change": -0.04,
+      "changePercent": -0.75,
       "trend": "down"
     }
   ],
   "sentiment": {
     "fearGreed": {
-      "current": 26.2,
-      "previous": 34.6,
-      "weekAgo": 16.7,
-      "monthAgo": 30.3,
-      "yearAgo": 37.1,
-      "label": "fear"
+      "current": 22.7,
+      "previous": 26.2,
+      "weekAgo": 29.8,
+      "monthAgo": 38.2,
+      "yearAgo": 34.5,
+      "label": "extreme fear"
     },
     "vix": {
-      "value": 19.42,
-      "label": "中波動"
+      "value": 21.15,
+      "label": "中高波動"
     },
-    "tenYearYield": 4.929,
-    "dollarIndex": 101.96,
-    "yieldSpread": 0.208,
+    "tenYearYield": 4.894,
+    "dollarIndex": 101.79,
+    "yieldSpread": 0.201,
     "economicCycle": {
-      "phase": "overheating",
-      "phaseZh": "過熱期",
-      "growthDirection": "up",
+      "phase": "stagflation",
+      "phaseZh": "滯脹期（Stagflation）",
+      "growthDirection": "down",
       "inflationDirection": "up"
     }
   },
@@ -1249,33 +1249,33 @@
     {
       "name": "Bitcoin",
       "symbol": "BTC",
-      "price": 77434.75,
-      "change": 236.54,
-      "changePercent": 0.31,
+      "price": 78248.45,
+      "change": 813.7,
+      "changePercent": 1.05,
       "trend": "up"
     },
     {
       "name": "Ethereum",
       "symbol": "ETH",
-      "price": 2252.75,
-      "change": 11.69,
-      "changePercent": 0.52,
+      "price": 2273.05,
+      "change": 20.3,
+      "changePercent": 0.9,
       "trend": "up"
     },
     {
       "name": "BNB",
       "symbol": "BNB",
-      "price": 702.61,
-      "change": -0.74,
-      "changePercent": -0.11,
-      "trend": "down"
+      "price": 711.88,
+      "change": 9.27,
+      "changePercent": 1.32,
+      "trend": "up"
     },
     {
       "name": "Solana",
       "symbol": "SOL",
-      "price": 95.35,
-      "change": -0.87,
-      "changePercent": -0.9,
+      "price": 94.45,
+      "change": -0.89,
+      "changePercent": -0.94,
       "trend": "down"
     },
     {
@@ -1283,23 +1283,23 @@
       "symbol": "XRP",
       "price": 1.25,
       "change": -0.0,
-      "changePercent": -0.34,
+      "changePercent": -0.02,
       "trend": "down"
     },
     {
       "name": "Cardano",
       "symbol": "ADA",
       "price": 0.19,
-      "change": -0.0,
-      "changePercent": -1.2,
-      "trend": "down"
+      "change": 0.0,
+      "changePercent": 0.05,
+      "trend": "up"
     },
     {
       "name": "Dogecoin",
       "symbol": "DOGE",
       "price": 0.08,
       "change": -0.0,
-      "changePercent": -0.44,
+      "changePercent": -0.11,
       "trend": "down"
     }
   ]
