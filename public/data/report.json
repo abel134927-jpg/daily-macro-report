@@ -1,14 +1,13 @@
 {
-  "date": "2026-11-16",
-  "generatedAt": "2026-11-16 09:01",
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17 09:00",
   "heroIndicators": [
     {
       "name": "S&P 500",
-      "value": 7561.67,
-      "change": -30.73,
-      "changePercent": -0.4,
+      "value": 7416.59,
+      "change": -145.08,
+      "changePercent": -1.92,
       "sparklineData": [
-        7773.95,
         7818.93,
         7801.77,
         7765.36,
@@ -37,16 +36,16 @@
         7520.93,
         7619.38,
         7592.4,
-        7561.67
+        7561.67,
+        7416.59
       ]
     },
     {
       "name": "納斯達克",
-      "value": 25136.27,
-      "change": -229.82,
-      "changePercent": -0.91,
+      "value": 24509.76,
+      "change": -626.51,
+      "changePercent": -2.49,
       "sparklineData": [
-        27477.31,
         27599.79,
         27538.69,
         27193.34,
@@ -75,16 +74,16 @@
         25065.87,
         25466.19,
         25366.09,
-        25136.27
+        25136.27,
+        24509.76
       ]
     },
     {
       "name": "道瓊斯",
-      "value": 52347.55,
-      "change": 50.46,
-      "changePercent": 0.1,
+      "value": 51608.17,
+      "change": -739.38,
+      "changePercent": -1.41,
       "sparklineData": [
-        51267.9,
         51521.28,
         51179.87,
         51231.64,
@@ -113,7 +112,8 @@
         52231.89,
         52486.49,
         52297.09,
-        52347.55
+        52347.55,
+        51608.17
       ]
     },
     {
@@ -156,9 +156,9 @@
     },
     {
       "name": "黃金",
-      "value": 3895.3,
-      "change": 9.0,
-      "changePercent": 0.23,
+      "value": 3861.2,
+      "change": -25.1,
+      "changePercent": -0.65,
       "sparklineData": [
         4187.1,
         4140.7,
@@ -189,14 +189,14 @@
         4000.5,
         3885.3,
         3886.3,
-        3895.3
+        3861.2
       ]
     },
     {
       "name": "WTI 原油",
-      "value": 88.28,
-      "change": -0.28,
-      "changePercent": -0.32,
+      "value": 85.29,
+      "change": -3.27,
+      "changePercent": -3.69,
       "sparklineData": [
         89.44,
         88.28,
@@ -227,14 +227,14 @@
         86.53,
         88.74,
         88.56,
-        88.28
+        85.29
       ]
     },
     {
       "name": "美元指數",
-      "value": 103.41,
-      "change": 0.0,
-      "changePercent": 0.0,
+      "value": 103.59,
+      "change": 0.18,
+      "changePercent": 0.18,
       "sparklineData": [
         101.83,
         102.24,
@@ -265,16 +265,15 @@
         102.91,
         103.17,
         103.41,
-        103.41
+        103.59
       ]
     },
     {
       "name": "Bitcoin",
-      "value": 64128.05,
-      "change": -4121.22,
-      "changePercent": -6.04,
+      "value": 65305.06,
+      "change": 1177.01,
+      "changePercent": 1.84,
       "sparklineData": [
-        81500.8,
         81382.15,
         82017.6,
         81853.54,
@@ -303,7 +302,8 @@
         73964.47,
         71342.97,
         68249.27,
-        64128.05
+        64128.05,
+        65305.06
       ]
     }
   ],
@@ -313,43 +313,43 @@
       "indices": [
         {
           "name": "S&P 500",
-          "close": 7561.67,
-          "change": -30.73,
-          "changePercent": -0.4,
+          "close": 7416.59,
+          "change": -145.08,
+          "changePercent": -1.92,
           "trend": "down",
-          "ytd": 10.25
+          "ytd": 8.14
         },
         {
           "name": "納斯達克",
-          "close": 25136.27,
-          "change": -229.82,
-          "changePercent": -0.91,
-          "trend": "down",
-          "ytd": 8.18
+          "close": 24509.76,
+          "change": -626.51,
+          "changePercent": -2.49,
+          "trend": "strong_down",
+          "ytd": 5.48
         },
         {
           "name": "道瓊斯",
-          "close": 52347.55,
-          "change": 50.46,
-          "changePercent": 0.1,
-          "trend": "up",
-          "ytd": 8.2
+          "close": 51608.17,
+          "change": -739.38,
+          "changePercent": -1.41,
+          "trend": "down",
+          "ytd": 6.67
         },
         {
           "name": "羅素2000",
-          "close": 2790.49,
-          "change": -8.57,
-          "changePercent": -0.31,
+          "close": 2742.94,
+          "change": -47.55,
+          "changePercent": -1.7,
           "trend": "down",
-          "ytd": 11.25
+          "ytd": 9.36
         },
         {
           "name": "費城半導體",
-          "close": 10146.32,
-          "change": -360.35,
-          "changePercent": -3.43,
+          "close": 9610.65,
+          "change": -535.67,
+          "changePercent": -5.28,
           "trend": "strong_down",
-          "ytd": 37.72
+          "ytd": 30.45
         }
       ]
     },
@@ -515,111 +515,111 @@
   ],
   "news": [
     {
-      "impact": "high",
-      "sentiment": "neutral",
-      "region": "美国",
-      "titleZh": "贝森特促美联储勿过度加息",
-      "titleEn": "Bessent Tells the Fed Not to Hike “Too Much”",
-      "summary": "财政部与投票官员立场分歧，长债持有人承压，12月两大节点或决定加息路径走向。",
-      "source": "24/7 Wall St.",
-      "time": "11-14 13:38",
-      "url": "https://247wallst.com/investing/2026/11/14/bessent-tells-the-fed-not-to-hike-too-much/"
-    },
-    {
       "impact": "mid",
       "sentiment": "bear",
-      "region": "美国",
-      "titleZh": "特朗普称关税不引发通胀反创财富",
-      "titleEn": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise",
-      "summary": "经济数据与总统说法相悖，关税负面影响远超收益，或加剧市场对贸易政策的担忧。",
-      "source": "Motley Fool",
-      "time": "11-15 09:26",
-      "url": "https://www.fool.com/investing/2026/11/15/donald-trump-claims-tariffs-dont-cause-inflation-they-cause-wealth-economic-data-says-otherwise/"
+      "region": "全球",
+      "titleZh": "比特幣下跌，Anthropic IPO將至，機構逢低買入",
+      "titleEn": "Bitcoin falls as Anthropic IPO looms; Strategy and Strive buy the dip",
+      "summary": "比特幣因Anthropic IPO抽走資金而下跌，但Strategy與Strive逢低買入，顯示機構分歧，加密市場短線承壓。",
+      "source": "Yahoo Finance Video",
+      "time": "11-16 17:00",
+      "url": "https://finance.yahoo.com/video/bitcoin-falls-anthropic-ipo-looms-170000657.html"
     },
     {
       "impact": "high",
       "sentiment": "bear",
       "region": "全球",
-      "titleZh": "加息担忧升温金价暴跌",
+      "titleZh": "比特幣最新拋售為重大警訊",
+      "titleEn": "Bitcoin's latest sell-off is a major warning sign",
+      "summary": "比特幣週末回落反映IPO分流與聯準會緊縮預期，加密市場資金外流風險升高，短線偏空。",
+      "source": "Yahoo Finance Video",
+      "time": "11-16 17:00",
+      "url": "https://finance.yahoo.com/video/bitcoins-latest-sell-off-major-170000727.html"
+    },
+    {
+      "impact": "high",
+      "sentiment": "bear",
+      "region": "美國",
+      "titleZh": "那斯達克100跌1%，輝達首次無黃仁勳財報",
+      "titleEn": "Stock Market Today: Nasdaq-100 Sinks 1% as Nvidia Faces Its First Earnings Without Jensen Huang",
+      "summary": "輝達代理執行長財報、聯準會偏鷹與債息破5%三重壓力，AI估值面臨考驗，科技股波動加劇。",
+      "source": "24/7 Wall St.",
+      "time": "11-16 14:58",
+      "url": "https://247wallst.com/investing/2026/11/16/stock-market-today-nasdaq-100-sinks-1-as-nvidia-faces-its-first-earnings-without-jensen-huang/"
+    },
+    {
+      "impact": "high",
+      "sentiment": "bear",
+      "region": "美國",
+      "titleZh": "科技股拋售加深，AI領導層危機震盪那斯達克",
+      "titleEn": "Stock Market Today, Nov. 16: Tech Selloff Deepens as AI Leadership Crisis Rattles Nasdaq",
+      "summary": "輝達高層改組、殖利率攀升與晶片出口新限制夾擊，科技股全面下挫，AI板塊估值承壓。",
+      "source": "Yahoo Finance",
+      "time": "Mon, 16 Nov 2026",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-tech-selloff-deepens-as-ai-leadership-crisis-rattles-nasdaq/?.tsrc=rss"
+    },
+    {
+      "impact": "high",
+      "sentiment": "bear",
+      "region": "全球",
+      "titleZh": "股債金亞洲齊跌，2.2兆美元蒸發五大因素",
+      "titleEn": "Stocks, Gold, and Asia Bleed $2.2 Trillion: Top 5 Factors That Triggered the Crash",
+      "summary": "全球股、金、亞股單日同步重挫，蒸發約2.2兆美元，系統性風險升溫，避險資產失效加劇恐慌。",
+      "source": "BeInCrypto",
+      "time": "11-16 23:15",
+      "url": "https://beincrypto.com/market-bloodbath-2-trillion-5-factors/"
+    },
+    {
+      "impact": "high",
+      "sentiment": "bear",
+      "region": "全球",
+      "titleZh": "聯準會升息憂慮升溫，金價重挫",
       "titleEn": "Gold Prices Plunge as Fed Rate Hike Fears Intensify",
-      "summary": "避险资产黄金遭遇意外冲击，加息预期强化压制金价，资金或加速流出贵金属板块。",
+      "summary": "升息預期推升實質利率，黃金避險功能失靈，金價走弱反映資金转向收益資產，短線偏空。",
       "source": "GuruFocus.com",
       "time": "11-12 19:44",
       "url": "https://finance.yahoo.com/markets/commodities/articles/gold-prices-plunge-fed-rate-194427220.html"
     },
     {
-      "impact": "high",
-      "sentiment": "bear",
-      "region": "美国",
-      "titleZh": "批发通胀达6.5%美股早盘涨势消退",
-      "titleEn": "The Stock Market's Early Rally Fades as Wholesale Inflation Hits 6.5%",
-      "summary": "月度数据降温难缓解加息忧虑，通胀高企压制风险偏好，美股反弹动能受限。",
-      "source": "GuruFocus.com",
-      "time": "11-13 18:51",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-markets-early-rally-fades-185155071.html"
-    },
-    {
       "impact": "mid",
-      "sentiment": "neutral",
+      "sentiment": "bear",
       "region": "全球",
-      "titleZh": "达里奥坚持建议持有黄金",
+      "titleZh": "達里歐籲持金，金價卻自高點跌28%",
       "titleEn": "Ray Dalio Keeps Telling Investors to Hold Gold. Gold Just Lost 28% From Its Record. Here’s His Rule for a 66-Year-Old With $800,000 in an IRA and $2,800 a Month in Social Security",
-      "summary": "金价较峰值跌28%创一年新低，达里奥仍倡配置10%-15%黄金，退休投资者面临抉择。",
+      "summary": "金價跌至一年低點，與達里歐建議持有10-15%黃金形成反差，避險配置策略面臨考驗。",
       "source": "24/7 Wall St.",
       "time": "11-14 19:43",
       "url": "https://247wallst.com/investing/2026/11/14/ray-dalio-keeps-telling-investors-to-hold-gold-gold-just-lost-28-from-its-record-heres-his-rule-for-a-66-year-old-with-800000-in-an-ira-and-2800-a-month-in-social-security/"
     },
     {
       "impact": "mid",
-      "sentiment": "neutral",
+      "sentiment": "bear",
       "region": "全球",
-      "titleZh": "比特币与股票投资回报对比",
-      "titleEn": "Bitcoin vs. Stocks: Is Crypto Really the Best Investment. The Results May Surprise You",
-      "summary": "加密资产与指数基金正面较量，退休储蓄角度显示其中之一风险明显更高。",
-      "source": "24/7 Wall St.",
-      "time": "11-15 17:05",
-      "url": "https://247wallst.com/investing/2026/11/15/bitcoin-vs-stocks-is-crypto-really-the-best-investment-the-results-may-surprise-you/"
+      "titleZh": "比特幣礦工付電費，駭客收走比特幣",
+      "titleEn": "Bitcoin miners paid the electricity bill. Hackers collected the bitcoin.",
+      "summary": "駭客利用AI入侵Luxor礦機管理軟體轉移算力與獎勵，礦業安全風險浮現，恐壓抑挖礦信心。",
+      "source": "Yahoo Finance Video",
+      "time": "11-16 19:00",
+      "url": "https://finance.yahoo.com/video/bitcoin-miners-paid-electricity-bill-190000482.html"
     },
     {
       "impact": "mid",
       "sentiment": "neutral",
-      "region": "美国",
-      "titleZh": "美财长因伊朗威胁迁居军事基地",
+      "region": "美國",
+      "titleZh": "財長因伊朗威脅遷入軍事基地",
       "titleEn": "The Treasury Secretary Is Now Living on a Military Base After Iranian Threats",
-      "summary": "市场反应平淡，但油市与长债的平静或掩盖持有USO、TLT者的更大风险。",
+      "summary": "地緣政治風險升溫但油價與長債反應平淡，恐低估風險，USO與TLT持有者需留意波動。",
       "source": "24/7 Wall St.",
       "time": "11-12 17:23",
       "url": "https://247wallst.com/investing/2026/11/12/the-treasury-secretary-is-now-living-on-a-military-base-after-iranian-threats/"
     },
     {
-      "impact": "low",
-      "sentiment": "neutral",
-      "region": "全球",
-      "titleZh": "2030年成为百万富翁需多少比特币",
-      "titleEn": "How Much Bitcoin Do You Need to Be a Millionaire by 2030?",
-      "summary": "比特币较峰值近腰斩，华尔街仍看至七位数，投资者需评估熊市下的持仓规模。",
-      "source": "24/7 Wall St.",
-      "time": "11-15 22:23",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/11/15/how-much-bitcoin-do-you-need-to-be-a-millionaire-by-2030/"
-    },
-    {
-      "impact": "high",
-      "sentiment": "bear",
-      "region": "美国",
-      "titleZh": "比特币暴跌MSTR遭MSCI指数剔除",
-      "titleEn": "Michael Saylor’s Strategy Just Lost Its MSCI Index Spot as Bitcoin Plunges. Is MSTR Stock a Sell?",
-      "summary": "指数提供商剔除该股且比特币跌破成本价，塞勒融资模式面临最严峻考验。",
-      "source": "24/7 Wall St.",
-      "time": "11-15 17:28",
-      "url": "https://247wallst.com/investing/2026/11/15/michael-saylors-strategy-just-lost-its-msci-index-spot-as-bitcoin-plunges-is-mstr-stock-a-sell/"
-    },
-    {
       "impact": "mid",
       "sentiment": "bear",
-      "region": "美国",
-      "titleZh": "收益率上升拖累太阳能股下挫",
+      "region": "美國",
+      "titleZh": "殖利率攀升壓抑太陽能股，SolarEdge跌5%",
       "titleEn": "SolarEdge Slides 5% as Rising Yields Weigh on Solar Stocks; Sunrun Drops 4%, Enphase Falls 3%",
-      "summary": "SolarEdge财报超预期仍跌5%，债市收益率攀升压制整个太阳能板块估值。",
+      "summary": "SolarEdge財報亮眼仍隨板塊下挫，債市殖利率上升對高槓桿太陽能股形成壓力，族群分化。",
       "source": "24/7 Wall St.",
       "time": "11-12 18:57",
       "url": "https://247wallst.com/investing/2026/11/12/solaredge-slides-5-as-rising-yields-weigh-on-solar-stocks-sunrun-drops-4-enphase-falls-3/"
@@ -628,137 +628,137 @@
   "commodities": [
     {
       "name": "黃金",
-      "price": 3895.3,
-      "change": 9.0,
-      "changePercent": 0.23,
-      "trend": "up"
+      "price": 3861.2,
+      "change": -25.1,
+      "changePercent": -0.65,
+      "trend": "down"
     },
     {
       "name": "白銀",
-      "price": 48.72,
-      "change": -0.32,
-      "changePercent": -0.64,
-      "trend": "down"
+      "price": 47.01,
+      "change": -2.02,
+      "changePercent": -4.11,
+      "trend": "strong_down"
     },
     {
       "name": "原油(WTI)",
-      "price": 88.28,
-      "change": -0.28,
-      "changePercent": -0.32,
-      "trend": "down"
+      "price": 85.29,
+      "change": -3.27,
+      "changePercent": -3.69,
+      "trend": "strong_down"
     },
     {
       "name": "布蘭特原油",
-      "price": 95.3,
-      "change": -0.54,
-      "changePercent": -0.56,
-      "trend": "down"
+      "price": 92.02,
+      "change": -3.82,
+      "changePercent": -3.99,
+      "trend": "strong_down"
     },
     {
       "name": "銅",
-      "price": 6.07,
-      "change": -0.01,
-      "changePercent": -0.11,
+      "price": 5.99,
+      "change": -0.09,
+      "changePercent": -1.46,
       "trend": "down"
     },
     {
       "name": "天然氣",
-      "price": 3.16,
-      "change": -0.07,
-      "changePercent": -2.11,
+      "price": 3.12,
+      "change": -0.11,
+      "changePercent": -3.31,
       "trend": "strong_down"
     }
   ],
   "forex": [
     {
       "name": "美元指數",
-      "rate": 103.413,
-      "change": 0.003,
-      "changePercent": 0.0,
+      "rate": 103.591,
+      "change": 0.181,
+      "changePercent": 0.18,
       "trend": "up"
     },
     {
       "name": "EUR/USD",
-      "rate": 1.105,
-      "change": -0.0045,
-      "changePercent": -0.41,
+      "rate": 1.1025,
+      "change": -0.0025,
+      "changePercent": -0.23,
       "trend": "down"
     },
     {
       "name": "USD/JPY",
-      "rate": 159.875,
-      "change": 0.141,
-      "changePercent": 0.09,
-      "trend": "up"
+      "rate": 159.78,
+      "change": -0.095,
+      "changePercent": -0.06,
+      "trend": "down"
     },
     {
       "name": "GBP/USD",
-      "rate": 1.3231,
-      "change": -0.0045,
-      "changePercent": -0.34,
+      "rate": 1.3216,
+      "change": -0.0015,
+      "changePercent": -0.11,
       "trend": "down"
     },
     {
       "name": "USD/CNY",
-      "rate": 6.6704,
-      "change": 0.0001,
-      "changePercent": 0.0,
+      "rate": 6.671,
+      "change": 0.0006,
+      "changePercent": 0.01,
       "trend": "up"
     },
     {
       "name": "USD/TWD",
-      "rate": 32.939,
-      "change": 0.0771,
-      "changePercent": 0.23,
-      "trend": "up"
+      "rate": 32.8764,
+      "change": -0.0626,
+      "changePercent": -0.19,
+      "trend": "down"
     }
   ],
   "bonds": [
     {
       "name": "美國3月期",
-      "yield": 4.122,
-      "change": -0.006,
-      "changePercent": -0.15,
-      "trend": "down"
+      "yield": 4.125,
+      "change": 0.003,
+      "changePercent": 0.07,
+      "trend": "up"
     },
     {
       "name": "美國5年期",
-      "yield": 4.981,
-      "change": 0.036,
-      "changePercent": 0.73,
-      "trend": "up"
+      "yield": 4.935,
+      "change": -0.046,
+      "changePercent": -0.92,
+      "trend": "down"
     },
     {
       "name": "美國10年期",
-      "yield": 5.154,
-      "change": 0.051,
-      "changePercent": 1.0,
-      "trend": "up"
+      "yield": 5.121,
+      "change": -0.033,
+      "changePercent": -0.64,
+      "trend": "down"
     },
     {
       "name": "美國30年期",
-      "yield": 5.481,
-      "change": 0.048,
-      "changePercent": 0.88,
-      "trend": "up"
+      "yield": 5.467,
+      "change": -0.014,
+      "changePercent": -0.26,
+      "trend": "down"
     }
   ],
   "sentiment": {
     "fearGreed": {
-      "current": 38.6,
-      "previous": 39.8,
-      "weekAgo": 24.4,
-      "monthAgo": 45.6,
-      "yearAgo": 24.5,
+      "current": 31.0,
+      "previous": 38.6,
+      "weekAgo": 31.5,
+      "monthAgo": 18.2,
+      "yearAgo": 22.1,
       "label": "fear"
     },
     "vix": {
-      "value": 19.3,
-      "label": "中波動"
+      "value": 22.91,
+      "label": "中高波動"
     },
-    "tenYearYield": 5.154,
-    "dollarIndex": 103.41,
-    "yieldSpread": 0.173,
+    "tenYearYield": 5.121,
+    "dollarIndex": 103.59,
+    "yieldSpread": 0.186,
     "economicCycle": {
       "phase": "recession",
       "phaseZh": "衰退期",
@@ -1206,58 +1206,58 @@
     {
       "name": "Bitcoin",
       "symbol": "BTC",
-      "price": 64128.05,
-      "change": -4121.22,
-      "changePercent": -6.04,
-      "trend": "strong_down"
+      "price": 65305.06,
+      "change": 1177.01,
+      "changePercent": 1.84,
+      "trend": "up"
     },
     {
       "name": "Ethereum",
       "symbol": "ETH",
-      "price": 1769.12,
-      "change": -158.47,
-      "changePercent": -8.22,
-      "trend": "strong_down"
+      "price": 1835.5,
+      "change": 66.37,
+      "changePercent": 3.75,
+      "trend": "strong_up"
     },
     {
       "name": "BNB",
       "symbol": "BNB",
-      "price": 581.38,
-      "change": -48.06,
-      "changePercent": -7.63,
-      "trend": "strong_down"
+      "price": 595.99,
+      "change": 14.61,
+      "changePercent": 2.51,
+      "trend": "strong_up"
     },
     {
       "name": "Solana",
       "symbol": "SOL",
-      "price": 70.18,
-      "change": -7.92,
-      "changePercent": -10.14,
-      "trend": "strong_down"
+      "price": 72.68,
+      "change": 2.5,
+      "changePercent": 3.57,
+      "trend": "strong_up"
     },
     {
       "name": "XRP",
       "symbol": "XRP",
-      "price": 0.91,
-      "change": -0.1,
-      "changePercent": -9.55,
-      "trend": "strong_down"
+      "price": 0.97,
+      "change": 0.06,
+      "changePercent": 6.74,
+      "trend": "strong_up"
     },
     {
       "name": "Cardano",
       "symbol": "ADA",
-      "price": 0.15,
-      "change": -0.02,
-      "changePercent": -12.27,
-      "trend": "strong_down"
+      "price": 0.16,
+      "change": 0.01,
+      "changePercent": 5.23,
+      "trend": "strong_up"
     },
     {
       "name": "Dogecoin",
       "symbol": "DOGE",
       "price": 0.06,
-      "change": -0.01,
-      "changePercent": -11.12,
-      "trend": "strong_down"
+      "change": 0.0,
+      "changePercent": 4.55,
+      "trend": "strong_up"
     }
   ]
 }
